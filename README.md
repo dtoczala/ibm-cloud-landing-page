@@ -43,8 +43,8 @@ The general idea is to use digital resources on an "as needed" basis, and to pay
 Bluemix itself is based on [Cloud Foundry](https://www.cloudfoundry.org/) (although this is evolving), which is an open source cloud application platform for developing and deploying enterprise cloud applications.
 
 ### References for Further Reading
-- [grunt](https://grunt) - A simple sound
-
+- [Lionel's Bluemix Help](http:/ibm.biz/bluemixhelp) - this page is an "unofficial" collection of links done by Lionel Mace.  Nice collection of places to start from.
+- [Bluemix Annoyances and Work Arounds](docs/bluemix-faq.md) - sub-page with guidance on how to work around some of the minor annoyances you might encounter with Bluemix.
 ---
 # Bluemix Services and APIs
 
@@ -201,3 +201,20 @@ There are a variety of proven patterns that you see in the world today.  Everyth
 ### References for Further Reading
 - [Cognitive Use Cases](https://github.com/dtoczala/watson-landing-page#common-use-cases) - The "use case" section from the [Watson Landing Page](https://github.com/dtoczala/watson-landing-page).
 
+---
+# Common Tips and Tricks
+This section will cover some of the common tips and tricks used by Cloud development professionals, and covers some of those things that are not addressed in the documentation.
+
+## Staying Aware of Watson and Cloud Best practices
+There are some very good sources for current material on best practices with the Watson services.  Often these are published in a few "hotspots", and it's possible for you to monitor these so you are always aware of the latest information.  Here are some RSS feeds to some key "hotspots":
+
+- [RSS feed for Cloud Computing blogs on developerWorks](https://developer.ibm.com/dwblog/category/cloud-computing/feed/)
+- [RSS feed for Cognitive Computing blogs on developerWorks](https://developer.ibm.com/dwblog/category/cognitive-computing/feed/)
+
+_Note: You can also follow your favorite author by subscribing to an RSS feed for just their content.  The RSS feed follows this format:_
+```
+https://developer.ibm.com/dwblog/author/<author_id>/feed/
+```
+Here are some examples:
+- To follow Dan Toczala's content, use https://developer.ibm.com/dwblog/author/dtoczala/feed/.
+- To follow Joe Kozhaya's content, use https://developer.ibm.com/dwblog/author/kozhaya/feed/
