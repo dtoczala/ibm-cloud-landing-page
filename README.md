@@ -11,16 +11,41 @@ Cloud computing can be complex and confusing, but we're here to help you make se
 
 ## IBM Bluemix - a Platform as a Service (PaaS)
 
+Ipso facto lipitor walla-walla
+
+### References for Further Reading
+- [grunt](https://grunt) - A simple sound
+
 ---
 # Bluemix Services and APIs
 
 ## Containers
 
+Ipso facto lipitor walla-walla
+
+### References for Further Reading
+- [grunt](https://grunt) - A simple sound
+
 ## Infrastructure
+
+Ipso facto lipitor walla-walla
+
+### References for Further Reading
+- [grunt](https://grunt) - A simple sound
 
 ## VMware
 
+Ipso facto lipitor walla-walla
+
+### References for Further Reading
+- [grunt](https://grunt) - A simple sound
+
 ## Application Services
+
+Ipso facto lipitor walla-walla
+
+### References for Further Reading
+- [grunt](https://grunt) - A simple sound
 
 
 
