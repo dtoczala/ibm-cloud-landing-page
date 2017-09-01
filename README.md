@@ -162,7 +162,7 @@ Ipso facto lipitor walla-walla
 
 ## Watson
 
-Watson and all of the cognitive capabilities of IBM are exposed as services on the Bluemix platform.  This topic is huge, and there is a [whole GitHub repository similar to this one focused on the Watson services](https://github.com/dtoczala/watson-landing-page).  For information on specific Watson services, see that repository.
+Watson and all of the cognitive capabilities of IBM are exposed as services on the Bluemix platform.  This topic is huge, and there is a [whole GitHub repository (similar to this one), focused on the Watson services](https://github.com/dtoczala/watson-landing-page).  For information on specific Watson services, see that repository.
 
 The Watson cognitive services can be broken up into some rough groupings that characterize how we think, and the capabilities that are available today.  These areas are:
 - **Language** - the ability to understand conversational language.  Also includes grasping concepts from language, forming personality profiles, translating languages, and understanding tone and context.
@@ -189,7 +189,7 @@ When building cloud based applications and systems, it is often useful to think 
 
 Now just because you have the recipe, it doesn't mean that you will be successful.  Just like a receipe in the real world, how you combine the ingredients is important, the skill of your baker is important, and the little things that you add for "flavor" are important too.  Each of the receipes below are good starting points, but you should make sure that what you are baking will work for your ultimate audience.  Don't waste time/money/effort making a 3 tier wedding cake when a cupcake will satisfy the needs of your organization.  Heck, sometimes all they want is a [blueberry muffin](https://www.eater.com/2016/3/11/11203948/puppy-bagel-teenybiscuit).
 
-And just like in the real world, there are a lot of specialty bakeries out there that will make custom cakes and cupcakes for you.  If your not very good in the kitchen, then this might be your best bet.
+And just like in the real world, there are a lot of specialty bakeries out there that will make custom cakes and cupcakes for you.  If you're not very good in the kitchen, then this might be your best bet.
 
 ### References for Further Reading
 - [grunt](https://grunt) - A simple sound
