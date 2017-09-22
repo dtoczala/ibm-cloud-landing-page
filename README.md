@@ -9,6 +9,7 @@ The structure here is important.  On this page are links for people getting star
 # Contents
 - **[Introduction - Getting Started](https://github.com/dtoczala/bluemix-landing-page#introduction---getting-started)**
    - [IBM Bluemix - a Platform as a Service(PaaS)](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#ibm-bluemix---a-platform-as-a-service-paas)
+   - [Architecting Cloud Applications}()
 - **[Bluemix Sevices and APIs](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#bluemix-services-and-apis)**
    - [Contaners](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#containers)
    - [Infrastructure](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#infrastructure)
@@ -47,6 +48,14 @@ Bluemix itself is based on [Cloud Foundry](https://www.cloudfoundry.org/) (altho
 - [Lionel's Bluemix Help](http:/ibm.biz/bluemixhelp) - this page is an "unofficial" collection of links done by Lionel Mace.  Nice collection of places to start from.
 - [Common Bluemix ID and Billing Questions](https://www.ibm.com/blogs/bluemix/2017/08/common_qa/) - great guide on common Bluemix ID and billing questions with good answers.  We use this a lot.
 - [Bluemix Annoyances and Work Arounds](docs/bluemix-faq.md) - sub-page with guidance on how to work around some of the minor annoyances you might encounter with Bluemix.
+
+## Architecting Cloud Applications
+
+In traditional Enterprise application development it is assumed that the underlying infrastructure has 99.999% availability and that applications can be scaled by adding more hardware. The ops focus is largely at the infrastructure level. Cloud applications are more typically based on [micro-service architectures](https://www.ibm.com/devops/method/content/architecture/microservices/), which put the ops and reliability focus on the application.  This distinction is important and critical, and it represents a paradigm shift for most application architects and developers.
+
+### References for Further Reading
+- [What are Microservices?](https://developer.ibm.com/cloud-microservices/) - a quick discussion of microservices and how they work with Agile development practices and Cloud infrastructures.  Good overview.
+
 ---
 # Bluemix Services and APIs
 
