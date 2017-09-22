@@ -9,7 +9,7 @@ The structure here is important.  On this page are links for people getting star
 # Contents
 - **[Introduction - Getting Started](https://github.com/dtoczala/bluemix-landing-page#introduction---getting-started)**
    - [IBM Bluemix - a Platform as a Service(PaaS)](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#ibm-bluemix---a-platform-as-a-service-paas)
-   - [Architecting Cloud Applications}()
+   - [Architecting Cloud Applications](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#architecting-cloud-applications)
 - **[Bluemix Sevices and APIs](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#bluemix-services-and-apis)**
    - [Contaners](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#containers)
    - [Infrastructure](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#infrastructure)
@@ -52,6 +52,8 @@ Bluemix itself is based on [Cloud Foundry](https://www.cloudfoundry.org/) (altho
 ## Architecting Cloud Applications
 
 In traditional Enterprise application development it is assumed that the underlying infrastructure has 99.999% availability and that applications can be scaled by adding more hardware. The ops focus is largely at the infrastructure level. Cloud applications are more typically based on [micro-service architectures](https://www.ibm.com/devops/method/content/architecture/microservices/), which put the ops and reliability focus on the application.  This distinction is important and critical, and it represents a paradigm shift for most application architects and developers.
+
+When architecting cloud applications, you need to be aware of the fact that Cloud resources are just like your old on premise hardware resources - they fail from time to time.  Using microservices and cloud you should be able to distribute "copies" of your microservices to different cloud locations, making them more resilient.  Don't depend on "the Cloud" to do it for you.  In this way you can more easily tune and scale your overall application (adding more microservice instances to address bottlenecks), as well as making it more resilient and flexible.
 
 ### References for Further Reading
 - [What are Microservices?](https://developer.ibm.com/cloud-microservices/) - a quick discussion of microservices and how they work with Agile development practices and Cloud infrastructures.  Good overview.
