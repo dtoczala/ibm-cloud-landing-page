@@ -25,7 +25,7 @@ The structure here is important.  On this page are links for people getting star
    - [Integrate](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#integrate)
    - [Internet of Things (IoT)](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#internet-of-things-iot)
    - [Network](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#network)
-   - [Scematics](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#schematics)
+   - [Schematics](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#schematics)
    - [Security](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#security)
    - [Storage](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#storage)
    - [Watson](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#watson)
