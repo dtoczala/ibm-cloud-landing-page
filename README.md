@@ -9,6 +9,7 @@ The structure here is important.  On this page are links for people getting star
 # Contents
 - **[Introduction - Getting Started](https://github.com/dtoczala/bluemix-landing-page#introduction---getting-started)**
    - [IBM Bluemix - a Platform as a Service(PaaS)](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#ibm-bluemix---a-platform-as-a-service-paas)
+   - [IBM Softlayer - an Infrastructure as a Service(IaaS)](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#ibm-bluemix---a-platform-as-a-service-paas)
    - [Architecting Cloud Applications](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#architecting-cloud-applications)
 - **[Bluemix Sevices and APIs](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#bluemix-services-and-apis)**
    - [Contaners](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#containers)
@@ -48,6 +49,13 @@ Bluemix itself is based on [Cloud Foundry](https://www.cloudfoundry.org/) (altho
 - [Lionel's Bluemix Help](http:/ibm.biz/bluemixhelp) - this page is an "unofficial" collection of links done by Lionel Mace.  Nice collection of places to start from.
 - [Common Bluemix ID and Billing Questions](https://www.ibm.com/blogs/bluemix/2017/08/common_qa/) - great guide on common Bluemix ID and billing questions with good answers.  We use this a lot.
 - [Bluemix Annoyances and Work Arounds](docs/bluemix-faq.md) - sub-page with guidance on how to work around some of the minor annoyances you might encounter with Bluemix.
+
+## IBM Softlayer - an Infrastructure as a Service (IaaS)
+
+Softlayer is the IBM Cloud IaaS product which provides a wide array of  infrastructure capabilities that allow you to move your computing workload to a scalable and "on demand" foundation.  These are exposed within the Bluemix interface as "Infrastructure", and allow you to select from different resource options like Devices, Storage, Network, Security, as well as some add-on services.
+
+### References for Further Reading
+- [Regulate access to your network resources with IBM Cloud security groups](https://www.ibm.com/blogs/bluemix/2017/09/network-security-groups/) - this page is good place to start for learning about creating, using and maintaining security groups.
 
 ## Architecting Cloud Applications
 
