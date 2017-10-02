@@ -171,10 +171,14 @@ Ipso facto lipitor walla-walla
 
 ## Security
 
-Ipso facto lipitor walla-walla
+Security is something that you need to seriously consider when constructing cloud based applications and systems.  IBM Bluemix offers a variety of Security services, but you need to make sure that your approach to security covers multiple levels from multiple perspectives.
+
+### App ID
+
+Use the IBM Bluemix App ID service to add authentication to your mobile and web apps and protect your back-end systems. You can also host user profile info that you can use to build engaging experiences. App ID supports authentication using social identity providers, so that users can log-in with their existing Facebook and Google accounts.  This is meant to support user authentication, and should not be your only security consideration.
 
 ### References for Further Reading
-- [grunt](https://grunt) - A simple sound
+- [Securing single page apps with App ID service](https://www.ibm.com/blogs/bluemix/2017/09/securing-single-page-apps-app-id-service/) - A simple tutorial showing an example of how to implement user authentication using the App ID service.
 
 ## Storage
 
