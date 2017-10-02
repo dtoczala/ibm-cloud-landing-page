@@ -122,10 +122,11 @@ Ipso facto lipitor walla-walla
 
 ## DevOps
 
-Ipso facto lipitor walla-walla
+The Bluemix platform supports a variety of DevOps services, which help organizations create software development toolchains and environments for doing [Continuous Integration (CI)](https://en.wikipedia.org/wiki/Continuous_integration) and [Continuous Delivery (CD)](https://en.wikipedia.org/wiki/Continuous_delivery).  These allow you to provide an Agile development environment where changes are built and deployed in an automated manner, allowing teams to move quickly into development environments, integrating code as they deliver.
 
 ### References for Further Reading
-- [grunt](https://grunt) - A simple sound
+- [Quickly Develop, Build, and Deploy Applications on IBM Cloud with DevOps services - Part 1](https://www.ibm.com/blogs/bluemix/2017/07/quickly-develop-build-deploy-applications-ibm-cloud-devops-services/) - Steve Weaver goes through deploying a toolchain and setting up a development pipeline on Bluemix.
+- [Quickly Develop, Build, and Deploy Applications on IBM Cloud with DevOps services - Part 2](https://grunt) - Steve Weaver goes through the steps to deploy a toolchain for an already existing application on Bluemix.
 
 ## Finance
 
