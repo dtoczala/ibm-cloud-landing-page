@@ -237,6 +237,13 @@ There are a variety of proven patterns that you see in the world today.  Everyth
 ### References for Further Reading
 - [Cognitive Use Cases](https://github.com/dtoczala/watson-landing-page#common-use-cases) - The "use case" section from the [Watson Landing Page](https://github.com/dtoczala/watson-landing-page).
 
+## Microservice Architectures
+
+Many organizations are moving towards [microservice architectures](https://www.ibm.com/cloud/garage/content/architecture/microservices/) as a way to implement business systems in a way which will easily scale, and provides flexibility for future growth.  A microservice approach also allows development organizations to more easily implement and support [Continuous Integration (CI)](https://en.wikipedia.org/wiki/Continuous_integration) and [Continuous Delivery (CD)](https://en.wikipedia.org/wiki/Continuous_delivery) approaches to support applications development.
+
+## References for Further Reading
+
+- [Microservices from Theory to Practice: Creating Applications in IBM Bluemix Using the Microservices Approach](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248275.html?OpenDocument) - an IBM Redbook, this is a long and technically dense review of Microservice architectures and techniques that can be used with the IBM Bluemix environment.
 ---
 # Common Tips and Tricks
 This section will cover some of the common tips and tricks used by Cloud development professionals, and covers some of those things that are not addressed in the documentation.
