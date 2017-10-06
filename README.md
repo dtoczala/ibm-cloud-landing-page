@@ -49,6 +49,7 @@ Bluemix itself is based on [Cloud Foundry](https://www.cloudfoundry.org/) (altho
 - [Lionel's Bluemix Help](http:/ibm.biz/bluemixhelp) - this page is an "unofficial" collection of links done by Lionel Mace.  Nice collection of places to start from.
 - [Common Bluemix ID and Billing Questions](https://www.ibm.com/blogs/bluemix/2017/08/common_qa/) - great guide on common Bluemix ID and billing questions with good answers.  We use this a lot.
 - [Bluemix Annoyances and Work Arounds](docs/bluemix-faq.md) - sub-page with guidance on how to work around some of the minor annoyances you might encounter with Bluemix.
+- [Five facts you may not know about Cloud Foundry](https://www.ibm.com/developerworks/cloud/library/cl-5-facts-about-cloud-foundry/index.html) - a deeper technical article outlining the capabilities and limitations of Cloud Foundry, which deals with 5 common misconceptions about the platform.
 
 ## IBM Softlayer - an Infrastructure as a Service (IaaS)
 
@@ -101,10 +102,15 @@ Ipso facto lipitor walla-walla
 
 ## Blockchain
 
-Ipso facto lipitor walla-walla
+Blockchain is one of the most talked about new technologies in recent memory.  It is popular because it holds the promise of maintaining an unmutable hyper-ledger, meaning that a chain of events which cannot be modified or corrupted.  This serves as the foundation for many crypto-currencies like [Bitcoin](https://bitcoin.org/en/) and [Etherium](https://ethereum.org/).  Blockchain can also be used to manage contracts, financial transactions, supply chain, health data, and other types of use cases where there is a need for a shared ledger, with full auditability and security.
 
 ### References for Further Reading
-- [grunt](https://grunt) - A simple sound
+- [IBM Blockchain Developer Center](https://developer.ibm.com/blockchain/) - a good landing page for news and information on Blockchain technology, geared for developers.
+- [Blockchain basics: Glossary and use cases](https://www.ibm.com/developerworks/cloud/library/cl-blockchain-basics-glossary-bluemix-trs/) - learn the terminology first, and examples of typical use cases, and then move on and learn more about Blockchain.
+- [IBM Blockchain 101: Quick-start guide for developers](https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html) - A great place to start in your exploration of Blockchain technology.  Highlights different ways to work with and deploy Blockchain based solutions and applications.
+- [Blockchain Basics: Introduction to Distributed Ledgers](https://www.ibm.com/developerworks/cloud/library/cl-blockchain-basics-intro-bluemix-trs/) - a good overview of distributed ledgers and some basic Blockchain concepts.
+- [IBM Blockchain Essentials Course] (https://developer.ibm.com/courses/all/blockchain-essentials/) - a good course for developers who want to learn the basics of working with Blockchain.
+- [Hyperledger Composer basics, Part 1 - Model and test your blockchain network](https://www.ibm.com/developerworks/cloud/library/cl-model-test-your-blockchain-network-with-hyperledger-composer-playground/index.html?ca=drs-) - the first in a series of tutorials showing how you can begin investigating and using Blockchain technology.
 
 ## Cloud Foundry Apps
 
