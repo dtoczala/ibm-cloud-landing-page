@@ -249,6 +249,9 @@ Many organizations are moving towards [microservice architectures](https://www.i
 # Common Tips and Tricks
 This section will cover some of the common tips and tricks used by Cloud development professionals, and covers some of those things that are not addressed in the documentation.
 
+## Debugging Node,js and Java applications on Bluemix
+One of the more difficult things to do is debugging a Node.js or Java application in a cloud environment.  This excellent video on [using App Management on Bluemix](https://www.ibm.com/blogs/bluemix/2015/10/advanced-debugging-node-apps-bluemix/) by [Sai Vennam](https://www.ibm.com/blogs/bluemix/author/svennam92gmail-com/) shows you how easy it is to profile and debug your applications on the IBM Cloud platform.  For more information, check out the [App Management documentation](https://console.bluemix.net/docs/manageapps/app_mng.html) on Bluemix.  It's easy to do, requires no additional services, and can be enabled with the switch of a single environment variable.
+
 ## Staying Aware of Watson and Cloud Best practices
 There are some very good sources for current material on best practices with the Watson services.  Often these are published in a few "hotspots", and it's possible for you to monitor these so you are always aware of the latest information.  Here are some RSS feeds to some key "hotspots":
 
