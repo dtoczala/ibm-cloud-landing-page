@@ -33,7 +33,7 @@ The structure here is important.  On this page are links for people getting star
 - **[Common Bluemix Use Cases](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#common-bluemix-use-cases)**
    - [Cognitive Applications](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#cognitive-applications)
 - **[Common Tips and Tricks](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#common-tips-and-tricks)**
-   - [Debugging Node,js and Java applications on Bluemix]()
+   - [Debugging Node.js and Java applications on Bluemix](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#debugging-nodejs-and-java-applications-on-bluemix)
    - [Staying Aware of Watson and Cloud Best practices](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#staying-aware-of-watson-and-cloud-best-practices)
 ---
 # Introduction - Getting Started
@@ -250,7 +250,7 @@ Many organizations are moving towards [microservice architectures](https://www.i
 # Common Tips and Tricks
 This section will cover some of the common tips and tricks used by Cloud development professionals, and covers some of those things that are not addressed in the documentation.
 
-## Debugging Node,js and Java applications on Bluemix
+## Debugging Node.js and Java applications on Bluemix
 One of the more difficult things to do is debugging a Node.js or Java application in a cloud environment.  This excellent video on [using App Management on Bluemix](https://www.ibm.com/blogs/bluemix/2015/10/advanced-debugging-node-apps-bluemix/) by [Sai Vennam](https://www.ibm.com/blogs/bluemix/author/svennam92gmail-com/) shows you how easy it is to profile and debug your applications on the IBM Cloud platform.  For more information, check out the [App Management documentation](https://console.bluemix.net/docs/manageapps/app_mng.html) on Bluemix.  It's easy to do, requires no additional services, and can be enabled with the switch of a single environment variable.
 
 ## Staying Aware of Watson and Cloud Best practices
