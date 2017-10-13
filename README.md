@@ -146,10 +146,11 @@ Ipso facto lipitor walla-walla
 
 ## Functions
 
-Ipso facto lipitor walla-walla
+IBM Cloud Functions (based on [Apache OpenWhisk](https://openwhisk.incubator.apache.org/)) is a Function-as-a-Service (FaaS) platform which executes functions in response to incoming events and costs nothing when not in use.
 
 ### References for Further Reading
-- [grunt](https://grunt) - A simple sound
+- [OpenWhisk/Functions Concepts](https://console-regional.ng.bluemix.net/openwhisk/learn/concepts) - A great starting point to understand the concepts behind the Functions capability.
+- [Functions CLI](https://console-regional.ng.bluemix.net/openwhisk/learn/cli) - install and test out the Functions CLI.
 
 ## Integrate
 
