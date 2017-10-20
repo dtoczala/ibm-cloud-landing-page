@@ -136,6 +136,7 @@ The Bluemix platform supports a variety of DevOps services, which help organizat
 ### References for Further Reading
 - [Quickly Develop, Build, and Deploy Applications on IBM Cloud with DevOps services - Part 1](https://www.ibm.com/blogs/bluemix/2017/07/quickly-develop-build-deploy-applications-ibm-cloud-devops-services/) - Steve Weaver goes through deploying a toolchain and setting up a development pipeline on Bluemix.
 - [Quickly Develop, Build, and Deploy Applications on IBM Cloud with DevOps services - Part 2](https://grunt) - Steve Weaver goes through the steps to deploy a toolchain for an already existing application on Bluemix.
+- [Master continuous integration and delivery with the IBM Devops Toolchain]() - good article, 
 
 ## Finance
 
@@ -151,6 +152,7 @@ IBM Cloud Functions (based on [Apache OpenWhisk](https://openwhisk.incubator.apa
 ### References for Further Reading
 - [OpenWhisk/Functions Concepts](https://console-regional.ng.bluemix.net/openwhisk/learn/concepts) - A great starting point to understand the concepts behind the Functions capability.
 - [Functions CLI](https://console-regional.ng.bluemix.net/openwhisk/learn/cli) - install and test out the Functions CLI.
+- [Capture audience feedback with IBM Bluemix OpenWhisk](https://www.ibm.com/blogs/bluemix/2017/02/capture-audience-feedback-with-ibm-bluemix-openwhisk/?social_post=812305763&fst=Learn&linkId=34571093) - great demo application implemented on a "serverless" platform using IBM Cloud Functions.
 
 ## Integrate
 
@@ -264,6 +266,7 @@ Many organizations are moving towards [microservice architectures](https://www.i
 ## References for Further Reading
 
 - [Microservices from Theory to Practice: Creating Applications in IBM Bluemix Using the Microservices Approach](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248275.html?OpenDocument) - an IBM Redbook, this is a long and technically dense review of Microservice architectures and techniques that can be used with the IBM Bluemix environment.
+- [My microservice has crashed, now what?](https://www.ibm.com/blogs/bluemix/2017/05/microservice-crashed-now/) - a nice article (along with code) outlining the pros and cons of different ways to deploy microservices in a high-availability aechitecture.
 ---
 # Common Tips and Tricks
 This section will cover some of the common tips and tricks used by Cloud development professionals, and covers some of those things that are not addressed in the documentation.
