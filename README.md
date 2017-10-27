@@ -72,7 +72,49 @@ When architecting cloud applications, you need to be aware of the fact that Clou
 - [99.95% availability. Balancing release velocity and reliability](https://www.ibm.com/blogs/bluemix/2017/09/sre-availability-balancing-release-velocity-reliability/) - a quick discussion of the importance of monitoring to DevOps, and how this impacts the reliability of cloud based applications.
 
 ---
-# Bluemix Services and APIs
+# Infrastructure Services and APIs
+
+## Compute
+
+Ipso facto lipitor walla-walla
+
+### References for Further Reading
+- [grunt](https://grunt) - A simple sound
+
+## Compute
+
+Ipso facto lipitor walla-walla
+
+### References for Further Reading
+- [grunt](https://grunt) - A simple sound
+
+## Compute
+
+Ipso facto lipitor walla-walla
+
+### References for Further Reading
+- [grunt](https://grunt) - A simple sound
+
+## Storage
+
+Ipso facto lipitor walla-walla
+
+### References for Further Reading
+- [grunt](https://grunt) - A simple sound
+
+## Network
+
+Ipso facto lipitor walla-walla
+
+### References for Further Reading
+- [grunt](https://grunt) - A simple sound
+
+## Security
+
+Ipso facto lipitor walla-walla
+
+### References for Further Reading
+- [grunt](https://grunt) - A simple sound
 
 ## Containers
 
@@ -81,14 +123,18 @@ Ipso facto lipitor walla-walla
 ### References for Further Reading
 - [grunt](https://grunt) - A simple sound
 
-## Infrastructure
+## VMWare
 
 Ipso facto lipitor walla-walla
 
 ### References for Further Reading
 - [grunt](https://grunt) - A simple sound
 
-## VMware
+
+---
+# Platform Services and APIs
+
+## APIs
 
 Ipso facto lipitor walla-walla
 
@@ -168,14 +214,14 @@ Ipso facto lipitor walla-walla
 ### References for Further Reading
 - [grunt](https://grunt) - A simple sound
 
-## Network
+## Mobile
 
 Ipso facto lipitor walla-walla
 
 ### References for Further Reading
 - [grunt](https://grunt) - A simple sound
 
-## Schematics
+## Network
 
 Ipso facto lipitor walla-walla
 
@@ -210,13 +256,6 @@ General Data Protection Regulation (GDPR) is a hot topic recently.  It is a Euro
 #### References for Further Reading
 -[General Data Protection Regulation (GDPR) Principles and Primer]() - a quick blog post that covers GDPR at a high level and dicusses some approaches to dealing with GDPR.
 
-## Storage
-
-Ipso facto lipitor walla-walla
-
-### References for Further Reading
-- [grunt](https://grunt) - A simple sound
-
 ## Watson
 
 Watson and all of the cognitive capabilities of IBM are exposed as services on the Bluemix platform.  This topic is huge, and there is a [whole GitHub repository (similar to this one), focused on the Watson services](https://github.com/dtoczala/watson-landing-page).  For information on specific Watson services, see that repository.
@@ -230,13 +269,6 @@ The Watson cognitive services can be broken up into some rough groupings that ch
 ### References for Further Reading
 - [Watson Landing Page](https://github.com/dtoczala/watson-landing-page) - A GitHub repository similar to this one, with pages of guidance and links to best practices that organizations adopting Watson have found valuable.
 - [A beginner's guide to artificial intelligence, machine learning, and cognitive computing](https://www.ibm.com/developerworks/library/cc-beginner-guide-machine-learning-ai-cognitive/index.html) - A quick article on the history of artificial intelligence and cognitive computing.  Interesting just for background information.
-
-## Web and Mobile
-
-Ipso facto lipitor walla-walla
-
-### References for Further Reading
-- [grunt](https://grunt) - A simple sound
 
 ---
 # Common Bluemix Use Cases
