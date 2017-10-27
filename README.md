@@ -1,4 +1,4 @@
-# Welcome to Bluemix
+# Welcome to IBM Cloud
 
 Cloud computing can be complex and confusing, but we're here to help you make sense of it. This is a technically focused set of pages that will allow you to explore the technology, see the latest best practices, and help you master cthe IBM Cloud.
 
@@ -20,9 +20,7 @@ The structure here is important.  On this page are links for people getting star
    - [VMware](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#vmware)
    
 - **[Platform Sevices and APIs](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#bluemix-services-and-apis)**
-   - [Contaners](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#containers)
-   - [Infrastructure](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#infrastructure)
-   - [VMware](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#vmware)
+   - [APIs](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#apis)
    - [Application Services](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#application-services)
    - [Blockchain](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#blockchain)
    - [Cloud Foundry Apps](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#cloud-foundry-apps)
@@ -32,12 +30,10 @@ The structure here is important.  On this page are links for people getting star
    - [Functions](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#functions)
    - [Integrate](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#integrate)
    - [Internet of Things (IoT)](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#internet-of-things-iot)
+   - [Mobile](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#mobile)
    - [Network](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#network)
-   - [Schematics](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#schematics)
    - [Security](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#security)
-   - [Storage](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#storage)
    - [Watson](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#watson)
-   - [Web and Mobile](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#web-and-mobile)
 - **[Common Bluemix Use Cases](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#common-bluemix-use-cases)**
    - [Cognitive Applications](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#cognitive-applications)
 - **[Common Tips and Tricks](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#common-tips-and-tricks)**
