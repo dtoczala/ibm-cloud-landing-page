@@ -104,7 +104,7 @@ Ipso facto lipitor walla-walla
 Ipso facto lipitor walla-walla
 
 ### References for Further Reading
-- [grunt](https://grunt) - A simple sound
+- [The top ten security articles you need to read](https://www.ibm.com/developerworks/security/library/se-top-security-articles-you-need-read/index.html) - We're sorry, a link to an article with more links.  But good for general security awareness.
 
 ## Containers
 
@@ -112,6 +112,7 @@ A container is a standard way to package an app and all its dependencies so that
 
 ### References for Further Reading
 - [Container, Docker, Kubernetes Overview](https://console.bluemix.net/docs/containers/cs_ov.html#cs_ov) - From the IBM Cloud documentation.  A simple place to learn the basic concepts.
+- [Kubernetes Service Policies](https://www.ibm.com/blogs/bluemix/2017/10/kubernetes-service-policies/) - Read this BEFORE you begin to deploy Kubernetes clusters into your environment.  Failure to do so will result in your clusters being visible globally in your account.  [David Callies](https://www.ibm.com/blogs/bluemix/author/dbcallieus-ibm-com/) post explains how to define and setup policies for your Kubernetes clusters.  You'll thank us later.
 - [Speed deployment on Kubernetes with Helm Chart – Quick YAML example from scratch](https://www.ibm.com/blogs/bluemix/2017/10/quick-example-helm-chart-for-kubernetes/) - Great hands-on tutorial on using containers, Kubernetes, and Helm to deploy a simple application.
 
 ## VMware
@@ -154,10 +155,10 @@ Blockchain is one of the most talked about new technologies in recent memory.  I
 
 ## Cloud Foundry Apps
 
-Ipso facto lipitor walla-walla
+Cloud Foundry allows you to develop applications using certain packaged environments, known as buildpacks.  These buildpacks provide the runtime environment for your application, and allow you to build and deploy this application on the IBM Cloud.
 
 ### References for Further Reading
-- [grunt](https://grunt) - A simple sound
+- [Increase productivity with five Cloud Foundry plugins](https://www.ibm.com/developerworks/cloud/library/cl-cloud-foundry-plugins/index.html) - Article detailing 5 different Cloud Foundry plugins, how to install them and how to use them.
 
 ## Data and Analytics
 
@@ -186,6 +187,7 @@ IBM Cloud Functions (based on [Apache OpenWhisk](https://openwhisk.incubator.apa
 ### References for Further Reading
 - [OpenWhisk/Functions Concepts](https://console-regional.ng.bluemix.net/openwhisk/learn/concepts) - A great starting point to understand the concepts behind the Functions capability.
 - [Functions CLI](https://console-regional.ng.bluemix.net/openwhisk/learn/cli) - install and test out the Functions CLI.
+- [Invoking a microservice hosted on IBM Cloud Functions](https://developer.ibm.com/tv/dw-mailbag-invoking-microservice-hosted-ibm-cloud-functions/) - a humorous video on how to call an IBM Cloud Function from a Node.js application.
 - [Capture audience feedback with IBM Bluemix OpenWhisk](https://www.ibm.com/blogs/bluemix/2017/02/capture-audience-feedback-with-ibm-bluemix-openwhisk/?social_post=812305763&fst=Learn&linkId=34571093) - great demo application implemented on a "serverless" platform using IBM Cloud Functions.
 
 ## Integrate
@@ -219,6 +221,9 @@ Ipso facto lipitor walla-walla
 ## Security
 
 Security is something that you need to seriously consider when constructing cloud based applications and systems.  IBM Bluemix offers a variety of Security services, but you need to make sure that your approach to security covers multiple levels from multiple perspectives.
+
+#### References for Further Reading
+- [The top ten security articles you need to read](https://www.ibm.com/developerworks/security/library/se-top-security-articles-you-need-read/index.html) - We're sorry, a link to an article with more links.  But good for general security awareness.
 
 ### IBM Cloud Identity & Access Management (IAM)
 
