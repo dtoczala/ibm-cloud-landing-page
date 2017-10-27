@@ -1,10 +1,10 @@
 # Welcome to IBM Cloud
 
-Cloud computing can be complex and confusing, but we're here to help you make sense of it. This is a technically focused set of pages that will allow you to explore the technology, see the latest best practices, and help you master cthe IBM Cloud.
+Cloud computing can be complex and confusing, but we're here to help you make sense of it. This is a technically focused set of pages that will allow you to explore the technology, see the latest best practices, and help you master the IBM Cloud.
 
 This page is still taking shape, but it should always be in an "under construction" mode, as we remove links that are no longer relevant, and add links to new relevant materials.  The idea here is not to give you EVERY possible link on a topic, but instead to steer you to content that is high quality, and that has been applied in the real world.
 
-The structure here is important.  On this page are links for people getting started with using these technologies on Bluemix.  The `/docs` folder contains additional markdown pages that contain links to technical material that is "deeper" and targeted to more advanced users.
+The structure here is important.  On this page are links for people getting started with using these technologies on IBM Cloud.  The `/docs` folder contains additional markdown pages that contain links to technical material that is "deeper" and targeted to more advanced users.
 
 # Contents
 - **[Introduction - Getting Started](https://github.com/dtoczala/bluemix-landing-page#introduction---getting-started)**
@@ -46,7 +46,7 @@ The structure here is important.  On this page are links for people getting star
 
 Bluemix is the IBM Cloud PaaS product which provides a wide array of services and capabilities that allow you to move your computing workload to a scalable and "on demand" foundation.  Some of these services are in the category of "Infrastructure as a Service" (or IaaS), some of them are are in the category of "Software as a Service" (or SaaS), and some are "Functions as a Service" (or FaaS).  Give the marketing folks some more time and they will come up wth some new "as a service" category.
 
-The general idea is to use digital resources on an "as needed" basis, and to pay for them on an "as needed" basis.  This allows organizations to avoid buying hardware and software that is underutilized or ignored.  When coupled with the concepts of [DevOps](https://www.ibm.com/cloud-computing/learn-more/what-is-devops/) and [microservices architectures](https://martinfowler.com/articles/microservices.html), the Bluemix platform can become a key foundation for a culture of innovation and continuous improvement.
+The general idea is to use digital resources on an "as needed" basis, and to pay for them on an "as used" basis.  This allows organizations to avoid buying hardware and software that is underutilized or ignored.  When coupled with the concepts of [DevOps](https://www.ibm.com/cloud-computing/learn-more/what-is-devops/) and [microservices architectures](https://martinfowler.com/articles/microservices.html), the Bluemix platform can become a key foundation for a culture of innovation and continuous improvement.
 
 Bluemix itself is based on [Cloud Foundry](https://www.cloudfoundry.org/) (although this is evolving), which is an open source cloud application platform for developing and deploying enterprise cloud applications.
 
@@ -176,10 +176,7 @@ The Bluemix platform supports a variety of DevOps services, which help organizat
 
 ## Finance
 
-Ipso facto lipitor walla-walla
-
-### References for Further Reading
-- [grunt](https://grunt) - A simple sound
+This area of the catlog is filled with a series of third-party financial applications and services.  This changes over time, and we don't have a lot of direct experience in working with these services.  Some of them look to be quite interesting and powerful - we suggest that you do your homework and research the capabilities, capacity, and costs associated with any of these services.
 
 ## Functions
 
