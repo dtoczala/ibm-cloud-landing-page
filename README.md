@@ -11,7 +11,15 @@ The structure here is important.  On this page are links for people getting star
    - [IBM Bluemix - a Platform as a Service (PaaS)](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#ibm-bluemix---a-platform-as-a-service-paas)
    - [IBM Softlayer - an Infrastructure as a Service (IaaS)](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#ibm-softlayer---an-infrastructure-as-a-service-iaas)
    - [Architecting Cloud Applications](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#architecting-cloud-applications)
-- **[Bluemix Sevices and APIs](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#bluemix-services-and-apis)**
+- **[Infrastructure Sevices and APIs](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#infrastructure-services-and-apis)**
+   - [Compute](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#compute)
+   - [Storage](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#storage)
+   - [Network](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#network)
+   - [Security](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#security)
+   - [Containers](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#containers)
+   - [VMware](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#vmware)
+   
+- **[Platform Sevices and APIs](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#bluemix-services-and-apis)**
    - [Contaners](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#containers)
    - [Infrastructure](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#infrastructure)
    - [VMware](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#vmware)
@@ -81,20 +89,6 @@ Ipso facto lipitor walla-walla
 ### References for Further Reading
 - [grunt](https://grunt) - A simple sound
 
-## Compute
-
-Ipso facto lipitor walla-walla
-
-### References for Further Reading
-- [grunt](https://grunt) - A simple sound
-
-## Compute
-
-Ipso facto lipitor walla-walla
-
-### References for Further Reading
-- [grunt](https://grunt) - A simple sound
-
 ## Storage
 
 Ipso facto lipitor walla-walla
@@ -123,7 +117,7 @@ Ipso facto lipitor walla-walla
 ### References for Further Reading
 - [grunt](https://grunt) - A simple sound
 
-## VMWare
+## VMware
 
 Ipso facto lipitor walla-walla
 
