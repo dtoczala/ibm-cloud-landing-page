@@ -108,10 +108,11 @@ Ipso facto lipitor walla-walla
 
 ## Containers
 
-Ipso facto lipitor walla-walla
+A container is a standard way to package an app and all its dependencies so that the app can be moved between environments and run without changes.  Containers in the IBM Cloud are [Docker images](https://docs.docker.com/engine/userguide/storagedriver/imagesandcontainers/), from your [Docker registry](https://console.bluemix.net/docs/containers/cs_planning.html#cs_planning_images), that are deployed on [Kubernetes](https://console.bluemix.net/docs/containers/cs_ov.html#kubernetes_basics).  This is how you should deploy your microservices based applications for improved scalability and survivability. 
 
 ### References for Further Reading
-- [grunt](https://grunt) - A simple sound
+- [Container, Docker, Kubernetes Overview](https://console.bluemix.net/docs/containers/cs_ov.html#cs_ov) - From the IBM Cloud documentation.  A simple place to learn the basic concepts.
+- [Speed deployment on Kubernetes with Helm Chart – Quick YAML example from scratch](https://www.ibm.com/blogs/bluemix/2017/10/quick-example-helm-chart-for-kubernetes/) - Great hands-on tutorial on using containers, Kubernetes, and Helm to deploy a simple application.
 
 ## VMware
 
