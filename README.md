@@ -174,7 +174,8 @@ The Bluemix platform supports a variety of DevOps services, which help organizat
 ### References for Further Reading
 - [Quickly Develop, Build, and Deploy Applications on IBM Cloud with DevOps services - Part 1](https://www.ibm.com/blogs/bluemix/2017/07/quickly-develop-build-deploy-applications-ibm-cloud-devops-services/) - Steve Weaver goes through deploying a toolchain and setting up a development pipeline on Bluemix.
 - [Quickly Develop, Build, and Deploy Applications on IBM Cloud with DevOps services - Part 2](https://grunt) - Steve Weaver goes through the steps to deploy a toolchain for an already existing application on Bluemix.
-- [Master continuous integration and delivery with the IBM Devops Toolchain]() - good article, 
+- [Master continuous integration and delivery with the IBM Devops Toolchain](https://www.ibm.com/blogs/bluemix/2016/08/master-continuous-integration-delivery-ibm-devops-toolchain/) - good article, worth the time to check out.
+- [Integrate Jenkins with your toolchain to send job notifications, track code deployments](https://www.ibm.com/blogs/bluemix/2017/06/integrate-jenkins-to-your-toolchain/) - guidance on how to integrate your Jenkins server into an IBM DevOps Toolchain that deploys your applications to the IBM Cloud.  The integrations here are really nice - Slack notifications, PagerDuty alerts, etc.
 
 ## Finance
 
