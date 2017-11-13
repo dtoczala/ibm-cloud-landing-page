@@ -108,12 +108,16 @@ Ipso facto lipitor walla-walla
 
 ## Containers
 
-A container is a standard way to package an app and all its dependencies so that the app can be moved between environments and run without changes.  Containers in the IBM Cloud are [Docker images](https://docs.docker.com/engine/userguide/storagedriver/imagesandcontainers/), from your [Docker registry](https://console.bluemix.net/docs/containers/cs_planning.html#cs_planning_images), that are deployed on [Kubernetes](https://console.bluemix.net/docs/containers/cs_ov.html#kubernetes_basics).  This is how you should deploy your microservices based applications for improved scalability and survivability. 
+A container is a standard way to package an app and all its dependencies so that the app can be moved between environments and run without changes.  Containers in the IBM Cloud are [Docker images](https://docs.docker.com/engine/userguide/storagedriver/imagesandcontainers/), from your [Docker registry](https://console.bluemix.net/docs/containers/cs_planning.html#cs_planning_images), that are deployed on [Kubernetes](https://console.bluemix.net/docs/containers/cs_ov.html#kubernetes_basics).  This is how you should deploy your microservices based applications for improved scalability and survivability.
+
+A key piece of Kubernetes functionality is provided by [Istio](https://istio.io/), a microservice mesh that includes routing, ingress control, microservice discovery, and other benefits for your Kubernetes cluster.  Istio is a joint effort by IBM, Google, Lyft, 
 
 ### References for Further Reading
 - [Container, Docker, Kubernetes Overview](https://console.bluemix.net/docs/containers/cs_ov.html#cs_ov) - From the IBM Cloud documentation.  A simple place to learn the basic concepts.
 - [Kubernetes Service Policies](https://www.ibm.com/blogs/bluemix/2017/10/kubernetes-service-policies/) - Read this BEFORE you begin to deploy Kubernetes clusters into your environment.  Failure to do so will result in your clusters being visible globally in your account.  [David Callies](https://www.ibm.com/blogs/bluemix/author/dbcallieus-ibm-com/) post explains how to define and setup policies for your Kubernetes clusters.  You'll thank us later.
 - [Speed deployment on Kubernetes with Helm Chart – Quick YAML example from scratch](https://www.ibm.com/blogs/bluemix/2017/10/quick-example-helm-chart-for-kubernetes/) - Great hands-on tutorial on using containers, Kubernetes, and Helm to deploy a simple application.
+- [Enable your microservices with advanced traffic management and request tracing capabilities using Istio](https://developer.ibm.com/code/patterns/manage-microservices-traffic-using-istio/) - a good demo (with code) for the beginner who wants to learn more about Istio.
+- [How Istio manages microservice applications – A traffic flow analysis](https://developer.ibm.com/dwblog/2017/how-istio-manages-microservice-applications/) - a quick read and associated video, which explains how Istio does the routing to your Kubernetes based microservices.
 
 ## VMware
 
