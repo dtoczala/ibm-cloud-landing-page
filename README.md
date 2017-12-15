@@ -167,6 +167,8 @@ Cloud Foundry allows you to develop applications using certain packaged environm
 
 ### References for Further Reading
 - [Increase productivity with five Cloud Foundry plugins](https://www.ibm.com/developerworks/cloud/library/cl-cloud-foundry-plugins/index.html) - Article detailing 5 different Cloud Foundry plugins, how to install them and how to use them.
+- [Essentials of Application Development on IBM Cloud](http://www.redbooks.ibm.com/redbooks/pdfs/sg248374.pdf) - This is an IBM Redbook (meaning that it is big - a 222 page PDF), but there is some good info in here.  Some of it may be out of date, as the platform has been changing wuite rapidly, but the concepts here are solid.
+- [Developing Node,js Applications on IBM Cloud](http://www.redbooks.ibm.com/redbooks/pdfs/sg248406.pdf) - Another IBM Redbook, this is a 146 page PDF focused on Node.js development.  Good for someone learning Node.js (or new to it), and provides some simple examples with Express and React.
 
 ## Data and Analytics
 
