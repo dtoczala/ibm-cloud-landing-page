@@ -203,10 +203,14 @@ IBM Cloud Functions (based on [Apache OpenWhisk](https://openwhisk.incubator.apa
 
 ## Integrate
 
-Ipso facto lipitor walla-walla
+There are a few different services included under the integrate category of services.  By their nature, these services tend to have a lot in common with other services and service areas.  Some of the more popular ones are the [Secure Gateway](https://console.bluemix.net/catalog/services/secure-gateway) and [API Connect](https://console.bluemix.net/catalog/services/api-connect) services.
+
+The [Secure Gateway](https://console.bluemix.net/catalog/services/secure-gateway) Service provides a quick, easy, and secure solution for connecting anything to anything. Rather than bridging your environments at the network level like a traditional VPN that begins with full access and must be limited from the top down, Secure Gateway provides granular access only to the resources that you have defined.
+
+[API Connect](https://console.bluemix.net/catalog/services/api-connect) is a comprehensive end-to-end API lifecycle solution that enables the automated creation of APIs, simple discovery of systems of records, self-service access for internal and third party developers and built-in security and governance. Using automated, model-driven tools, create new APIs and microservices based on Node.js and Java runtimes — all managed from a single unified console.
 
 ### References for Further Reading
-- [grunt](https://grunt) - A simple sound
+- [Secure Gateway with Watson Services on IBM Cloud](https://developer.ibm.com/recipes/tutorials/secure-gateway-with-watson-services-on-ibm-cloud/) - This "receipe" is a quick how-to approach to setting up a Secure Gateway instance with some Watson services that are located on the IBM Cloud.  A nice and quick example.
 
 ## Internet of Things (IoT)
 
