@@ -172,10 +172,14 @@ Cloud Foundry allows you to develop applications using certain packaged environm
 
 ## Data and Analytics
 
-Ipso facto lipitor walla-walla
+This area is huge - and contains a variety of different database technologies, analytics platforms and technologies, data science tools and platforms, and even Watson Machine Learning.  We're just going to cover the highlights here, and provide some good starting points for where to learn more.
+
+The [Cloudant NoSQL DB](https://console.bluemix.net/catalog/services/cloudant-nosql-db) is often used as a solid no SQL option for storing JSON and other unstructured types of data.  It is compatible with CouchDB (and uses some of the same tools).
 
 ### References for Further Reading
-- [grunt](https://grunt) - A simple sound
+#### Cloudant
+- [Cloudant NoSQL DB backup and recovery](https://console.bluemix.net/docs/services/Cloudant/guides/backup-cookbook.html#cloudant-nosql-db-backup-and-recovery) - From the online documentation - goes over the basics.  Also see the section on [Disaster Recovery and Backup](https://console.bluemix.net/docs/services/Cloudant/guides/disaster-recovery-and-backup.html#disaster-recovery-and-backup).
+- 
 
 ## DevOps
 
