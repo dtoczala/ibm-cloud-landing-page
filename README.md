@@ -241,8 +241,12 @@ Ipso facto lipitor walla-walla
 
 Security is something that you need to seriously consider when constructing cloud based applications and systems.  The IBM Cloud offers a variety of Security services, but you need to make sure that your approach to security covers multiple levels from multiple perspectives.
 
+If you are doing penetration testing or load testing of IBM Cloud based applications, please let the IBM Cloud team know about this.  otherwise our IBM Cloud security team and security infrastructure could shut down your application, mistaking your testing as a DDOS attack or some other security event.
+
 #### References for Further Reading
 - [The top ten security articles you need to read](https://www.ibm.com/developerworks/security/library/se-top-security-articles-you-need-read/index.html) - We're sorry, a link to an article with more links.  But good for general security awareness.
+- [List of IP Ranges for various datacenters](https://knowledgelayer.softlayer.com/faq/what-ip-ranges-do-i-allow-through-firewall) - For determining what IP ranges to use for the various data centers, when configuring your own security.
+
 
 ### IBM Cloud Identity & Access Management (IAM)
 
