@@ -319,6 +319,11 @@ Many organizations are moving towards [microservice architectures](https://www.i
 # Common Tips and Tricks
 This section will cover some of the common tips and tricks used by Cloud development professionals, and covers some of those things that are not addressed in the documentation.
 
+## Common Cloud Best Practices and Good Habits
+There are some generic best practices and good habits that we have found make life easier for software development teams working in a Cloud environment.  Here's a quick list of some of the better ones that we have seen:
+- [Deploying Production Cloud Applications - A Readiness Checklist](https://dtoczala.wordpress.com/2018/01/17/deploying-production-cloud-applications-a-readiness-checklist/) - A list of some common sense things that you should make sure that you have addressed before you deploy that Cloud based application for production use.
+- Use a functional ID for your Cloud accounts (as highlighted in [Bluemix and Watson – Getting Started Right](https://dtoczala.wordpress.com/2017/05/26/bluemix-and-watson-getting-started-right/), that way your organization "owns" your development and deployment environments, not some employee (who may leave your company tomorrow....)
+
 ## Debugging Node.js and Java applications on IBM Cloud
 One of the more difficult things to do is debugging a Node.js or Java application in a cloud environment.  This excellent video on [using App Management on Bluemix](https://www.ibm.com/blogs/bluemix/2015/10/advanced-debugging-node-apps-bluemix/) by [Sai Vennam](https://www.ibm.com/blogs/bluemix/author/svennam92gmail-com/) shows you how easy it is to profile and debug your applications on the IBM Cloud platform.  For more information, check out the [App Management documentation](https://console.bluemix.net/docs/manageapps/app_mng.html) on the IBM Cloud.  It's easy to do, requires no additional services, and can be enabled with the switch of a single environment variable.
 
