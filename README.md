@@ -287,6 +287,26 @@ The Watson cognitive services can be broken up into some rough groupings that ch
 - [A beginner's guide to artificial intelligence, machine learning, and cognitive computing](https://www.ibm.com/developerworks/library/cc-beginner-guide-machine-learning-ai-cognitive/index.html) - A quick article on the history of artificial intelligence and cognitive computing.  Interesting just for background information.
 
 ---
+# IBM Cloud Administration
+
+One of the nice things about a Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) is that you have the abilty to provide computing environments quickly for your internal development customers.  In order to do this, you need to manage and administer your IBM Cloud environment.   There are some basic administrative things that you should be aware of - and that you need to put into place.
+
+## Organization of Your IBM Cloud
+
+You need to break up your IBM Cloud account into different Cloud Foundry organizations (or orgs), with a single org for each project and team.  You can then add users to an org, and give them access, roles and permissions so they can do work within that org.  You can then create individual spaces underneath that org, with each space representing a different stage of development, or development environment.  It is then possible for each team to create their own deployment pipelines which will provide a DevOps capability for their project - and automated eployments to a variety of different environents.  You can read more about this approach in [Bluemix and Watson – Getting started right](https://developer.ibm.com/dwblog/2017/ibm-cloud-bluemix-watson-new-customers/).
+
+## Tools You Can Use
+
+Here is a list of some of the tools that are available to help in the administration and management of your IBM Cloud infrastructure.  Check these out, and use the ones that seem to fit best with your own usage of the IBM Cloud.
+
+- [My Console](http://myconsole.mybluemix.net/) - a simple app deployed out on the IBM Cloud which will ask for your credentials, and will then display an interactive view of your IBM Cloud environment and usage.
+
+
+### References for Further Reading
+- [Bluemix and Watson – Getting started right](https://developer.ibm.com/dwblog/2017/ibm-cloud-bluemix-watson-new-customers/) - good overview and strategy for organizing your IBM Cloud account infrastructure.
+- [Monitoring Bluemix usage and spending](https://developer.ibm.com/dwblog/2017/monitoring-bluemix-usage-and-spending/) - this quick article explains how to monitor your current usage and spending on the IBM Cloud via the IBM Cloud console.
+
+---
 # Common IBM Cloud Use Cases
 
 One of the nice things about a Platform as a Service is the fact that it provides a pattern for how to deploy applications and workload onto the Cloud.  Below are some of the more common patterns (or generic use cases) that we have seen deployed on the IBM Cloud.
