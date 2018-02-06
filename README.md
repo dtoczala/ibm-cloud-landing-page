@@ -298,6 +298,8 @@ One of the nice things about a Platform as a Service (PaaS) and Infrastructure a
 
 You need to break up your IBM Cloud account into different Cloud Foundry organizations (or orgs), with a single org for each project and team.  You can then add users to an org, and give them access, roles and permissions so they can do work within that org.  You can then create individual spaces underneath that org, with each space representing a different stage of development, or development environment.  It is then possible for each team to create their own deployment pipelines which will provide a DevOps capability for their project - and automated eployments to a variety of different environents.  You can read more about this approach in [Bluemix and Watson – Getting started right](https://developer.ibm.com/dwblog/2017/ibm-cloud-bluemix-watson-new-customers/).
 
+You can also use Resource Groups to help define groups of resources in your infrastructure, and then provide the ability to limit access ot those resources.  The article on [Resource Groups and Access Management](https://www.ibm.com/blogs/bluemix/2017/12/resource-groups-access-management/) discusses some best practices for managing and using resource groups to help provide security.
+
 ## Tools You Can Use
 
 Here is a list of some of the tools that are available to help in the administration and management of your IBM Cloud infrastructure.  Check these out, and use the ones that seem to fit best with your own usage of the IBM Cloud.
@@ -309,6 +311,7 @@ Here is a list of some of the tools that are available to help in the administra
 
 ### References for Further Reading
 - [Bluemix and Watson – Getting started right](https://developer.ibm.com/dwblog/2017/ibm-cloud-bluemix-watson-new-customers/) - good overview and strategy for organizing your IBM Cloud account infrastructure.
+- [Resource Groups and Access Management](https://www.ibm.com/blogs/bluemix/2017/12/resource-groups-access-management/) - discusses some best practices for managing and using resource groups to help provide security and to help organize your work on the IBM Cloud.
 - [Monitoring Bluemix usage and spending](https://developer.ibm.com/dwblog/2017/monitoring-bluemix-usage-and-spending/) - this quick article explains how to monitor your current usage and spending on the IBM Cloud via the IBM Cloud console.
 
 ---
