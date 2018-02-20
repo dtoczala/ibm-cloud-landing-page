@@ -49,7 +49,7 @@ _Note: Why is this titled "bluemix-landing-page"?  In the past, the IBM Cloud pl
 
 ## IBM Cloud - a Platform as a Service (PaaS)
 
-Bluemix is the former name of the IBM Cloud PaaS product which provides a wide array of services and capabilities that allow you to move your computing workload to a scalable and "on demand" foundation.  Some of these services are in the category of "Infrastructure as a Service" (or IaaS), some of them are are in the category of "Software as a Service" (or SaaS), and some are "Functions as a Service" (or FaaS).  Give the marketing folks some more time and they will come up wth some new "as a service" category.
+Bluemix is the former name of the IBM Cloud PaaS product which provides a wide array of services and capabilities that allow you to move your computing workload to a scalable and "on demand" foundation.  Some of these services are in the category of "Infrastructure as a Service" (or IaaS), some of them are in the category of "Software as a Service" (or SaaS), and some are "Functions as a Service" (or FaaS).  Give the marketing folks some more time and they will come up with some new "as a service" category.
 
 The general idea is to use digital resources on an "as needed" basis, and to pay for them on an "as used" basis.  This allows organizations to avoid buying hardware and software that is underutilized or ignored.  When coupled with the concepts of [DevOps](https://www.ibm.com/cloud-computing/learn-more/what-is-devops/) and [microservices architectures](https://martinfowler.com/articles/microservices.html), the IBM Cloud platform can become a key foundation for a culture of innovation and continuous improvement.
 
@@ -292,17 +292,17 @@ The Watson cognitive services can be broken up into some rough groupings that ch
 ---
 # IBM Cloud Administration
 
-One of the nice things about a Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) is that you have the abilty to provide computing environments quickly for your internal development customers.  In order to do this, you need to manage and administer your IBM Cloud environment.   There are some basic administrative things that you should be aware of - and that you need to put into place.
+One of the nice things about a Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) is that you have the ability to provide computing environments quickly for your internal development customers.  In order to do this, you need to manage and administer your IBM Cloud environment.   There are some basic administrative things that you should be aware of - and that you need to put into place.
 
 ## Organization of Your IBM Cloud
 
-You need to break up your IBM Cloud account into different Cloud Foundry organizations (or orgs), with a single org for each project and team.  You can then add users to an org, and give them access, roles and permissions so they can do work within that org.  You can then create individual spaces underneath that org, with each space representing a different stage of development, or development environment.  It is then possible for each team to create their own deployment pipelines which will provide a DevOps capability for their project - and automated eployments to a variety of different environents.  You can read more about this approach in [Bluemix and Watson – Getting started right](https://developer.ibm.com/dwblog/2017/ibm-cloud-bluemix-watson-new-customers/).
+You need to break up your IBM Cloud account into different Cloud Foundry organizations (or orgs), with a single org for each project and team.  You can then add users to an org, and give them access, roles and permissions so they can do work within that org.  You can then create individual spaces underneath that org, with each space representing a different stage of development, or development environment.  It is then possible for each team to create their own deployment pipelines which will provide a DevOps capability for their project - and automated deployments to a variety of different environments.  You can read more about this approach in [Bluemix and Watson – Getting started right](https://developer.ibm.com/dwblog/2017/ibm-cloud-bluemix-watson-new-customers/).
 
-You can also use Resource Groups to help define groups of resources in your infrastructure, and then provide the ability to limit access ot those resources.  The article on [Resource Groups and Access Management](https://www.ibm.com/blogs/bluemix/2017/12/resource-groups-access-management/) discusses some best practices for managing and using resource groups to help provide security.
+You can also use Resource Groups to help define groups of resources in your infrastructure, and then provide the ability to limit access to those resources.  The article on [Resource Groups and Access Management](https://www.ibm.com/blogs/bluemix/2017/12/resource-groups-access-management/) discusses some best practices for managing and using resource groups to help provide security.
 
 ## Tools You Can Use
 
-Here is a list of some of the tools that are available to help in the administration and management of your IBM Cloud infrastructure.  Check these out, and use the ones that seem to fit best with your own usage of the IBM Cloud.
+Here is a list of some of the tools that are available to help in the administration and management of your IBM Cloud infrastructure.  Check these out and use the ones that seem to fit best with your own usage of the IBM Cloud.
 
 - [My Console](http://myconsole.mybluemix.net/) - a simple app deployed out on the IBM Cloud which will ask for your credentials, and will then display an interactive view of your IBM Cloud environment and usage.
 - [Billing Insights](https://mybilling.mybluemix.net/#/login) - this application is nice, read the [blog post on the tool](https://www.ibm.com/blogs/bluemix/2017/09/get-real-time-billing-insights-bluemix-account/), and you can grab the [code for it from GitHub](https://github.ibm.com/maria-borbones/mybilling) and deploy your own version if you want.
