@@ -94,10 +94,10 @@ Ipso facto lipitor walla-walla
 
 ## Storage
 
-Ipso facto lipitor walla-walla
+Cloud Object Storage (COS) is one form of storage available to users of the IBM Cloud platform.  Cloud Object Storage provides storage in the cloud of a persistent set of objects - for later retrieval.  You can store, manage and access your data via a self-service portal and RESTful APIs.
 
 ### References for Further Reading
-- [grunt](https://grunt) - A simple sound
+- [Working With IBM Cloud Object Storage In Python](https://medium.com/ibm-data-science-experience/working-with-ibm-cloud-object-storage-in-python-fe0ba8667d5f) - A simple project that shows how to use Cloud Object Storage (COS) in conjunction with a Data Science Experience (DSX) project, all in Python.
 
 ## Network
 
@@ -175,11 +175,18 @@ Cloud Foundry allows you to develop applications using certain packaged environm
 
 ## Data and Analytics
 
-This area is huge - and contains a variety of different database technologies, analytics platforms and technologies, data science tools and platforms, and even Watson Machine Learning.  We're just going to cover the highlights here, and provide some good starting points for where to learn more.
+This area is huge - and contains a variety of different database technologies, analytics platforms and technologies, data science tools and platforms (like the [Data Science Experience](https://datascience.ibm.com/), or DSX), and even Watson Machine Learning (WML).  We're just going to cover the highlights here, and provide some good starting points for where to learn more.
 
 The [Cloudant NoSQL DB](https://console.bluemix.net/catalog/services/cloudant-nosql-db) is often used as a solid no SQL option for storing JSON and other unstructured types of data.  It is compatible with CouchDB (and uses some of the same tools).
 
+The [Data Science Experience](https://datascience.ibm.com/) is used by data scientists as a single area with common tools and visualization technologies for their data science work.  Often these data science efforts will be used to build a [Watson Machine Learning](https://console.bluemix.net/catalog/services/machine-learning) (WML) model.
+
 ### References for Further Reading
+
+#### Code
+- [Create an analytics application in IBM Data Science Experience (DSX) and Deploy it in Watson Machine Learning (WML)](https://github.com/ibm-cloud-architecture/refarch-data-science) - a GitHub project that walks through creating an analytics application and and deploying the model in Watson Machine Learning.
+- [Working With IBM Cloud Object Storage In Python](https://medium.com/ibm-data-science-experience/working-with-ibm-cloud-object-storage-in-python-fe0ba8667d5f) - A simple project that shows how to use Cloud Object Storage (COS) in conjunction with a Data Science Experience (DSX) project, all in Python.
+
 #### Cloudant
 - [Cloudant NoSQL DB backup and recovery](https://console.bluemix.net/docs/services/Cloudant/guides/backup-cookbook.html#cloudant-nosql-db-backup-and-recovery) - From the online documentation - goes over the basics.  Also see the section on [Disaster Recovery and Backup](https://console.bluemix.net/docs/services/Cloudant/guides/disaster-recovery-and-backup.html#disaster-recovery-and-backup).
 - 
