@@ -63,6 +63,7 @@ The IBM Cloud itself is based on [Cloud Foundry](https://www.cloudfoundry.org/) 
 - [Bluemix Annoyances and Work Arounds](docs/bluemix-faq.md) - sub-page with guidance on how to work around some of the minor annoyances you might encounter with Bluemix.
 - [Five facts you may not know about Cloud Foundry](https://www.ibm.com/developerworks/cloud/library/cl-5-facts-about-cloud-foundry/index.html) - a deeper technical article outlining the capabilities and limitations of Cloud Foundry, which deals with 5 common misconceptions about the platform.
 - [Getting Started with the IBM Cloud CLI](https://console.bluemix.net/docs/cli/reference/bluemix_cli/get_started.html#getting-started) - online documentation introducing use of the command line interface for the IBM Cloud.
+- [Service Availability Catalog by Region](https://mycatalog.mybluemix.net/) - shows availability of services based on region, type of service and some other filters.  Is the Watson Conversation service available in the Australian region?  Find out here...
 
 ## IBM Softlayer - an Infrastructure as a Service (IaaS)
 
