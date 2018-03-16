@@ -334,7 +334,7 @@ Now just because you have the recipe, it doesn't mean that you will be successfu
 And just like in the real world, there are a lot of specialty bakeries out there that will make custom cakes and cupcakes for you.  If you're not very good in the kitchen, then this might be your best bet.
 
 ### References for Further Reading
-- [grunt](https://grunt) - A simple sound
+- [Call Analytics Integrated Application](https://github.com/rodalton/call-analytics) - an EXCELLENT piece of code done by [Ronan Dalton](https://github.com/rodalton) that uses a Java application in combination with various Watson services, Cloud Object Storage (COS), and DB2 on Cloud.  Does analytics of call center recordings using the cognitive capabilities of Watson.
 
 ## Cognitive Applications
 
