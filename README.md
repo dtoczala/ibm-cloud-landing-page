@@ -196,11 +196,14 @@ The [Data Science Experience](https://datascience.ibm.com/) is used by data scie
 
 The IBM Cloud platform supports a variety of DevOps services, which help organizations create software development toolchains and environments for doing [Continuous Integration (CI)](https://en.wikipedia.org/wiki/Continuous_integration) and [Continuous Delivery (CD)](https://en.wikipedia.org/wiki/Continuous_delivery).  These allow you to provide an Agile development environment where changes are built and deployed in an automated manner, allowing teams to move quickly into development environments, integrating code as they deliver.
 
+In March 2018, IBM released a Cloud delivery environment called [Microclimate](https://microclimate-dev2ops.github.io/).  It claims to be able to deploy to multiple Cloud environments, and is built to provide an end to end development environment that lets you rapidly create, edit, and deploy applications. Applications are run in [Docker containers](https://www.docker.com/what-container) from day one and can be delivered into production on [Kubernetes](https://kubernetes.io/) through an automated DevOps pipeline using [Jenkins](https://jenkins.io/). Microclimate can be installed locally or on IBM Cloud Private.  it sounds pretty sharp, but it's new so we don't know how wonderful it really is yet.
+
 ### References for Further Reading
 - [Quickly Develop, Build, and Deploy Applications on IBM Cloud with DevOps services - Part 1](https://www.ibm.com/blogs/bluemix/2017/07/quickly-develop-build-deploy-applications-ibm-cloud-devops-services/) - Steve Weaver goes through deploying a toolchain and setting up a development pipeline on the IBM Cloud.
 - [Quickly Develop, Build, and Deploy Applications on IBM Cloud with DevOps services - Part 2](https://grunt) - Steve Weaver goes through the steps to deploy a toolchain for an already existing application on the IBM Cloud.
 - [Master continuous integration and delivery with the IBM Devops Toolchain](https://www.ibm.com/blogs/bluemix/2016/08/master-continuous-integration-delivery-ibm-devops-toolchain/) - good article, worth the time to check out.
 - [Integrate Jenkins with your toolchain to send job notifications, track code deployments](https://www.ibm.com/blogs/bluemix/2017/06/integrate-jenkins-to-your-toolchain/) - guidance on how to integrate your Jenkins server into an IBM DevOps Toolchain that deploys your applications to the IBM Cloud.  The integrations here are really nice - Slack notifications, PagerDuty alerts, etc.
+- [Documentation for Microclimate](https://microclimate-dev2ops.github.io/document) - the online documentation, has some guided help for you.
 
 ## Finance
 
