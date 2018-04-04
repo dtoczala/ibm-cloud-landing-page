@@ -187,10 +187,10 @@ The [Data Science Experience](https://datascience.ibm.com/) is used by data scie
 #### Code
 - [Create an analytics application in IBM Data Science Experience (DSX) and Deploy it in Watson Machine Learning (WML)](https://github.com/ibm-cloud-architecture/refarch-data-science) - a GitHub project that walks through creating an analytics application and and deploying the model in Watson Machine Learning.
 - [Working With IBM Cloud Object Storage In Python](https://medium.com/ibm-data-science-experience/working-with-ibm-cloud-object-storage-in-python-fe0ba8667d5f) - A simple project that shows how to use [Cloud Object Storage (COS)](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#storage) in conjunction with a Data Science Experience (DSX) project, all in Python.
+- [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - a great little animation that highlights some basic machine learning concepts around classification and training.  
 
 #### Cloudant
 - [Cloudant NoSQL DB backup and recovery](https://console.bluemix.net/docs/services/Cloudant/guides/backup-cookbook.html#cloudant-nosql-db-backup-and-recovery) - From the online documentation - goes over the basics.  Also see the section on [Disaster Recovery and Backup](https://console.bluemix.net/docs/services/Cloudant/guides/disaster-recovery-and-backup.html#disaster-recovery-and-backup).
-- 
 
 ## DevOps
 
