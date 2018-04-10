@@ -162,7 +162,7 @@ Blockchain is one of the most talked about new technologies in recent memory.  I
 - [IBM Blockchain 101: Quick-start guide for developers](https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html) - A great place to start in your exploration of Blockchain technology.  Highlights different ways to work with and deploy Blockchain based solutions and applications.
 - [Blockchain Basics: Introduction to Distributed Ledgers](https://www.ibm.com/developerworks/cloud/library/cl-blockchain-basics-intro-bluemix-trs/) - a good overview of distributed ledgers and some basic Blockchain concepts.
 - [Top 6 technical advantages of Hyperledger Fabric for blockchain networks](https://www.ibm.com/developerworks/cloud/library/cl-top-technical-advantages-of-hyperledger-fabric-for-blockchain-networks/index.html?ca=drs-) - an overview of the technical advantages of using Hyperledger fabric when implementing Blockchain solutions on the IBM Cloud platform.
-- [IBM Blockchain Essentials Course] (https://developer.ibm.com/courses/all/blockchain-essentials/) - a good course for developers who want to learn the basics of working with Blockchain.
+- [IBM Blockchain Essentials Course](https://developer.ibm.com/courses/all/blockchain-essentials/) - a good course for developers who want to learn the basics of working with Blockchain.
 - [Hyperledger Composer basics, Part 1 - Model and test your blockchain network](https://www.ibm.com/developerworks/cloud/library/cl-model-test-your-blockchain-network-with-hyperledger-composer-playground/index.html?ca=drs-) - the first in a series of tutorials showing how you can begin investigating and using Blockchain technology.
 
 ## Cloud Foundry Apps
