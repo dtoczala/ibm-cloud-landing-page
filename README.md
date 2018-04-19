@@ -311,6 +311,8 @@ You need to break up your IBM Cloud account into different Cloud Foundry organiz
 
 You can also use Resource Groups to help define groups of resources in your infrastructure, and then provide the ability to limit access to those resources.  The article on [Resource Groups and Access Management](https://www.ibm.com/blogs/bluemix/2017/12/resource-groups-access-management/) discusses some best practices for managing and using resource groups to help provide security.
 
+Another really good source of information on setting up roles and DevOps pipelines, is the guidance on [best practices for organizing users, teams and applications](https://console.bluemix.net/docs/tutorials/users-teams-applications.html#best-practices-for-organizing-users-teams-applications).  There are some good diagrams and explanations in here, with guidance around Kubernetes, Helm, DevOps, user roles and IAM security.
+
 ## Tools You Can Use
 
 Here is a list of some of the tools that are available to help in the administration and management of your IBM Cloud infrastructure.  Check these out and use the ones that seem to fit best with your own usage of the IBM Cloud.
@@ -324,6 +326,7 @@ Here is a list of some of the tools that are available to help in the administra
 - [Bluemix and Watson – Getting started right](https://developer.ibm.com/dwblog/2017/ibm-cloud-bluemix-watson-new-customers/) - good overview and strategy for organizing your IBM Cloud account infrastructure.
 - [Using Organisations more effectively in IBM Cloud](https://thebluemixdigest.wordpress.com/2018/04/10/using-organisations-more-effectively-in-ibm-cloud/) - good overview and video on the concepts driving the Account/Organization/Space organization of a CloudFoundry based cloud account.
 - [Resource Groups and Access Management](https://www.ibm.com/blogs/bluemix/2017/12/resource-groups-access-management/) - discusses some best practices for managing and using resource groups to help provide security and to help organize your work on the IBM Cloud.
+- [Best practices for organizing users, teams and applications](https://console.bluemix.net/docs/tutorials/users-teams-applications.html#best-practices-for-organizing-users-teams-applications) - good diagrams and explanations on user roles and IAM security.  Also has examples of typical user roles.
 - [Monitoring Bluemix usage and spending](https://developer.ibm.com/dwblog/2017/monitoring-bluemix-usage-and-spending/) - this quick article explains how to monitor your current usage and spending on the IBM Cloud via the IBM Cloud console.
 
 ---
