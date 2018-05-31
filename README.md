@@ -34,7 +34,7 @@ _Note: Why is this titled "bluemix-landing-page"?  In the past, the IBM Cloud pl
    - [Internet of Things (IoT)](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#internet-of-things-iot)
    - [Mobile](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#mobile)
    - [Network](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#network)
-   - [Security](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#security)
+   - [Security](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#security-1)
    - [Watson](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#watson)
 - **[IBM Cloud Administration](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#ibm-cloud-administration)**
    - [Organization of Your IBM Cloud](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#organization-of-your-ibm-cloud)
@@ -272,6 +272,7 @@ You can manage users across the IBM Cloud platform and Infrastructure services f
 - [Managing Users and Access Policies](https://console.bluemix.net/docs/iam/iamusermanage.html#iamusermanage) - part of the overall documentation of IAM, this section details the specific steps that you will take to set up and provide users access to your IBM Cloud infrastructure.
 - [User Roles and Permissions](https://console.bluemix.net/docs/iam/users_roles.html#userroles) - a listing of user roles and permissions based on scope and visibility.
 - [Bluemix CLI Commands for Managing Keys and Policies](https://console.bluemix.net/docs/cli/reference/bluemix_cli/bx_cli.html#bx_commands_iam) - a listing and description of the various command line options for managing keys and policies for IAM.
+- [IAM Recipe for IBM Cloud Access & Migration Path from CF](https://brandymguillory.wordpress.com/2018/05/31/iam-recipe-for-ibm-cloud-access-migration-path-from-cf/) - a nice walk through of setting up IAM for a real-world application.
 
 ### App ID
 
