@@ -191,6 +191,7 @@ The [Data Science Experience](https://datascience.ibm.com/) is used by data scie
 
 #### Cloudant
 - [Cloudant NoSQL DB backup and recovery](https://console.bluemix.net/docs/services/Cloudant/guides/backup-cookbook.html#cloudant-nosql-db-backup-and-recovery) - From the online documentation - goes over the basics.  Also see the section on [Disaster Recovery and Backup](https://console.bluemix.net/docs/services/Cloudant/guides/disaster-recovery-and-backup.html#disaster-recovery-and-backup).
+- [Who Limits the Rate-Limiters?](https://medium.com/ibm-watson-data-lab/who-limits-the-rate-limiter-68013263f9d2) - an interesting article on how to effectively use the queueing of API requests to use Cloudant more efficiently.
 
 ## DevOps
 
