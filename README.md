@@ -213,10 +213,11 @@ This area of the catlog is filled with a series of third-party financial applica
 
 ## Functions
 
-IBM Cloud Functions (based on [Apache OpenWhisk](https://openwhisk.incubator.apache.org/)) is a Function-as-a-Service (FaaS) platform which executes functions in response to incoming events and costs nothing when not in use.
+IBM Cloud Functions (based on [Apache OpenWhisk](https://openwhisk.incubator.apache.org/)) is a Function-as-a-Service (FaaS) platform which executes functions in response to incoming events and costs nothing when not in use.  This is more commonly referred to as [Serverless Computing](https://www.ibm.com/cloud/functions).  Serverless is a way to build and run applications and services without thinking about servers. Serverless applications don’t require you to provision, scale and manage any servers.
 
 ### References for Further Reading
 - [OpenWhisk/Functions Concepts](https://console-regional.ng.bluemix.net/openwhisk/learn/concepts) - A great starting point to understand the concepts behind the Functions capability.
+- [Rethinking the way you build software with serverless](https://sdtimes.com/cloud/rethinking-the-way-you-build-software-with-serverless/)- Nice article that covers serverless concepts and the benefits of going in a serverless direction.
 - [Functions CLI](https://console-regional.ng.bluemix.net/openwhisk/learn/cli) - install and test out the Functions CLI.
 - [Invoking a microservice hosted on IBM Cloud Functions](https://developer.ibm.com/tv/dw-mailbag-invoking-microservice-hosted-ibm-cloud-functions/) - a humorous video on how to call an IBM Cloud Function from a Node.js application.
 - [Capture audience feedback with IBM Bluemix OpenWhisk](https://www.ibm.com/blogs/bluemix/2017/02/capture-audience-feedback-with-ibm-bluemix-openwhisk/?social_post=812305763&fst=Learn&linkId=34571093) - great demo application implemented on a "serverless" platform using IBM Cloud Functions.
