@@ -318,7 +318,11 @@ You can also use Resource Groups to help define groups of resources in your infr
 
 Another really good source of information on setting up roles and DevOps pipelines, is the guidance on [best practices for organizing users, teams and applications](https://console.bluemix.net/docs/tutorials/users-teams-applications.html#best-practices-for-organizing-users-teams-applications).  There are some good diagrams and explanations in here, with guidance around Kubernetes, Helm, DevOps, user roles and IAM security.
 
-## Tools You Can Use
+## The IBM Cloud CLI - Your Best Tool
+
+The best tool that you have at your displosal is the [IBM Cloud Command Line Interface (CLI) tool](https://console.bluemix.net/docs/cli/index.html#overview).  This tool will allow you to do almost anything in the IBM Cloud, and will enable you to use scripts to automate your most repetitive IBM Cloud administrative tasks.  Just follow the directions on the [IBM Cloud CLI Installation](https://console.bluemix.net/docs/cli/reference/ibmcloud/download_cli.html#install_use) page.  Most of these deal with "interactive" tool installation, but if you would rather download the latest binaries and put the installed tool in some custom location, make sure to check out the [CLI image download links](https://console.bluemix.net/docs/cli/reference/ibmcloud/download_cli.html#install-to-a-custom-directory) for the most popular OS platforms.
+
+## Other Tools You Can Use
 
 Here is a list of some of the tools that are available to help in the administration and management of your IBM Cloud infrastructure.  Check these out and use the ones that seem to fit best with your own usage of the IBM Cloud.
 
