@@ -38,7 +38,8 @@ _Note: Why is this titled "bluemix-landing-page"?  In the past, the IBM Cloud pl
    - [Watson](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#watson)
 - **[IBM Cloud Administration](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#ibm-cloud-administration)**
    - [Organization of Your IBM Cloud](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#organization-of-your-ibm-cloud)
-   - [Tools You Can Use](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#tools-you-can-use)
+   - [The IBM Cloud CLI - Your Best Tool](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#the-ibm-cloud-cli---your-best-tool)
+   - [Tools You Can Use](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#other-tools-you-can-use)
 - **[Common IBM Cloud Use Cases](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#common-bluemix-use-cases)**
    - [Cognitive Applications](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#cognitive-applications)
 - **[Common Tips and Tricks](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#common-tips-and-tricks)**
