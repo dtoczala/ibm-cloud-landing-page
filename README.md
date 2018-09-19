@@ -110,10 +110,11 @@ Ipso facto lipitor walla-walla
 
 ## Security
 
-Ipso facto lipitor walla-walla
+Deploying securely is always an issue for people using any cloud infrastructure.  It's important to remember that there are many different aspects to security - from the security and roles associatedc with specific users in the development environments, to the access and security of the production environments.
 
 ### References for Further Reading
 - [The top ten security articles you need to read](https://www.ibm.com/developerworks/security/library/se-top-security-articles-you-need-read/index.html) - We're sorry, a link to an article with more links.  But good for general security awareness.
+- [IBM Cloud Security Patterns](https://github.ibm.com/ibmcloud/cloud-patterns) - on the IBM GitHub instance, but has some nice patterns around deploying secure virtual machines and Kubernetes clusters on the IBM Cloud.  Very nice.
 
 ## Containers
 
