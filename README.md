@@ -331,6 +331,7 @@ Here is a list of some of the tools that are available to help in the administra
 - [My Console](http://myconsole.mybluemix.net/) - a simple app deployed out on the IBM Cloud which will ask for your credentials, and will then display an interactive view of your IBM Cloud environment and usage.
 - [Billing Insights](https://mybilling.mybluemix.net/#/login) - this application is nice, read the [blog post on the tool](https://www.ibm.com/blogs/bluemix/2017/09/get-real-time-billing-insights-bluemix-account/), and you can grab the [code for it from GitHub](https://github.ibm.com/maria-borbones/mybilling) and deploy your own version if you want.
 - [Administering Your IBM Cloud Account](https://developer.ibm.com/dwblog/2018/administering-your-ibm-cloud-account-a-script-to-help/) - blog post with an associated [GitHub repository](https://github.com/dtoczala/IBM_Cloud_Admin) which has a Python script for an interactive and scriptable command line tool to help administer your IBM Cloud account.
+- [Using Terraform with the IBM Cloud Provider](https://ibm-cloud.github.io/tf-ibm-docs/#using-terraform-with-the-ibm-cloud-provider) - using Teraform to manage your IBM Cloud infrastructure is an easy way to automate full blown deployments onto the IBM Cloud.
 
 
 ### References for Further Reading
