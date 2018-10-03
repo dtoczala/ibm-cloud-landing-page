@@ -89,10 +89,11 @@ When architecting cloud applications, you need to be aware of the fact that Clou
 
 ## Compute
 
-Ipso facto lipitor walla-walla
+Compute resources include [bare metal servers](https://console.bluemix.net/catalog/infrastructure/bare-metal) and [virtual servers](https://console.bluemix.net/catalog/infrastructure/virtual-server-group), as well as VMware resources.  These resources are used in a cloud environment to provide computing power and server capabilities for a customer. You have the ability to specify a number of vCPUs (up to 64 of them), your network performance, some local storage (SAN), with the ability to select from multiple data centers located in a number of different countries.
 
 ### References for Further Reading
-- [grunt](https://grunt) - A simple sound
+- [Interacting With a Device](https://console.bluemix.net/docs/vsi/vsi_interact_device_snapshot_view.html#interact-with-a-device-in-snapshot-view) - A simple guide to some basic operations with a virtual server instance.
+- [Managing Device Access](https://console.bluemix.net/docs/vsi/vsi_device_access.html#managing-device-access) - a simple guide to managing access to virtual server instances.
 
 ## Storage
 
