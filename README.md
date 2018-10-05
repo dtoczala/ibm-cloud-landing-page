@@ -305,7 +305,7 @@ Use the IBM Cloud App ID service to add authentication to your mobile and web ap
 General Data Protection Regulation (GDPR) is a hot topic recently.  It is a European regulation that covers how data is stored, protected, and handled.  This isn't really a security topic in the way that most people think of security, as they consider approaches securing applications and identities.  It's in the security section because it addresses DATA security.
 
 #### References for Further Reading
--[General Data Protection Regulation (GDPR) Principles and Primer]() - a quick blog post that covers GDPR at a high level and dicusses some approaches to dealing with GDPR.
+- [General Data Protection Regulation (GDPR) Principles and Primer](https://www.ibm.com/blogs/bluemix/2017/06/general-data-protection-regulation-gdpr-principles-primer/) - a quick blog post that covers GDPR at a high level and dicusses some approaches to dealing with GDPR.
 
 ## Watson
 
