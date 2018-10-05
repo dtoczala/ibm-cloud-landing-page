@@ -281,6 +281,11 @@ The [IBM Cloud Availability Monitoring](https://console.bluemix.net/catalog/serv
 
 Platform level logging of events is facilitated via the [IBM Cloud Activity Tracker](https://console.bluemix.net/catalog/services/activity-tracker) service.  It will capture user and application interactions with your provisioned IBM Cloud resources. Store captured events as long as you require, safe guarded on cloud based storage solutions. Query your collected event data via API, or export your cloud activity data for further analysis.
 
+#### References for Further Reading
+- [Managing Events Using the Activity Tracker](https://console.bluemix.net/docs/services/cloud-activity-tracker/tutorials/manage_events_cli.html#tutorial2) - this tutorial takes you step-by-step through what you need to do to track events with your services and applications.
+- [Analyze Logs in Kibana for IBM Cloud Kubernetes Applications](https://console.bluemix.net/docs/services/CloudLogAnalysis/tutorials/container_logs.html#container_logs) - this shows you how to set up and use Kibana to check your logs for your Kubernetes containers.
+- [Analyze Logs in Kibana for Cloud Foundry Applications](https://console.bluemix.net/docs/tutorials/application-log-analysis.html#generate-access-and-analyze-application-logs) - same as the one above, but this time focused on a Cloud Foundry based application.  Also touches on setting up availability monitoring - really nice tutorial.
+
 ### IBM Cloud Identity & Access Management (IAM)
 
 You can manage users across the IBM Cloud platform and Infrastructure services from the Users page for your account.  This utilizes the Identity & Access Management (IAM) interface.  Using this interface, you have the ability to limit the access of IBM Cloud users to certain areas of your IBM Cloud footprint (spaces and organizations), as well as limiting the access and roles for a user based on a particular service.  You can also create Service IDs, which will limit the scope and access of a particular service (or set of services).  By creating and assigning keys for these users and services, you have the ability to limit access and visibility for both individual users aand services.  By rotating your keys (deleting and recreating new keys) on a regular basis, you are able to keep your IBM Cloud infrastructure secure.
