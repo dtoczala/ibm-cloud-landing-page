@@ -271,6 +271,15 @@ If you are doing penetration testing or load testing of IBM Cloud based applicat
 - [The top ten security articles you need to read](https://www.ibm.com/developerworks/security/library/se-top-security-articles-you-need-read/index.html) - We're sorry, a link to an article with more links.  But good for general security awareness.
 - [List of IP Ranges for various datacenters](https://knowledgelayer.softlayer.com/faq/what-ip-ranges-do-i-allow-through-firewall) - For determining what IP ranges to use for the various data centers, when configuring your own security.
 
+### Events and Logs
+
+Good security for cloud based applications is a concern for ALL organizations.  Securing software requires a deep understanding of the data being managed, and then ensuring that only appropriate access is granted to the appropriate parties.  The IBM Cloud services are designed to provide the basic building blocks to achieve this - but like any tool or technique, they need to be properly exercised to be effective.
+
+Customers will find some IBM Cloud services of particular interest when it comes to the logging of events, the analysis of those logs, monitoring of services and applications, and the general support of a production application.  The [IBM Cloud Log Analysis](https://console.bluemix.net/catalog/services/log-analysis) service automatically collects data from selected IBM Cloud services, with no instrumentation necessary.  The service allows you the flexibility to monitor and analyze logs on the IBM Cloud, using [Kibana dashboards](https://console.bluemix.net/docs/services/CloudLogAnalysis/kibana/analize_logs_dashboard.html#analize_logs_dashboard), or use the [Log Analysis API](https://console.bluemix.net/apidocs/log-analysis-api) to push data to other logging services and repsitories.
+
+The [IBM Cloud Availability Monitoring](https://console.bluemix.net/catalog/services/availability-monitoring) service can be used to monitor application and cloud service availability, as well as application/service responsiveness.  Responsiveness and performance monitoring can be driven by sythetic tests driven by Selenium scripts.  The closely related [IBM Cloud Monitoring](https://console.bluemix.net/catalog/services/monitoring) service can be used to automatically collect metric data from IBM Cloud applications and services, eliminating the need for agents. APIs make it easy to add custom metrics and to query your monitoring data.
+
+Platform level logging of events is facilitated via the [IBM Cloud Activity Tracker](https://console.bluemix.net/catalog/services/activity-tracker) service.  It will capture user and application interactions with your provisioned IBM Cloud resources. Store captured events as long as you require, safe guarded on cloud based storage solutions. Query your collected event data via API, or export your cloud activity data for further analysis.
 
 ### IBM Cloud Identity & Access Management (IAM)
 
