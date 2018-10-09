@@ -285,6 +285,7 @@ Platform level logging of events is facilitated via the [IBM Cloud Activity Trac
 - [Managing Events Using the Activity Tracker](https://console.bluemix.net/docs/services/cloud-activity-tracker/tutorials/manage_events_cli.html#tutorial2) - this tutorial takes you step-by-step through what you need to do to track events with your services and applications.
 - [Analyze Logs in Kibana for IBM Cloud Kubernetes Applications](https://console.bluemix.net/docs/services/CloudLogAnalysis/tutorials/container_logs.html#container_logs) - this shows you how to set up and use Kibana to check your logs for your Kubernetes containers.
 - [Analyze Logs in Kibana for Cloud Foundry Applications](https://console.bluemix.net/docs/tutorials/application-log-analysis.html#generate-access-and-analyze-application-logs) - same as the one above, but this time focused on a Cloud Foundry based application.  Also touches on setting up availability monitoring - really nice tutorial.
+- [Getting Started with Application Monitoring](https://www.ibm.com/cloud/garage/content/course/get_started_monitor_mvp/1) - good tutorial on setting up some simple Availability Monitoring.
 
 ### IBM Cloud Identity & Access Management (IAM)
 
