@@ -298,6 +298,7 @@ You can manage users across the IBM Cloud platform and Infrastructure services f
 - [User Roles and Permissions](https://console.bluemix.net/docs/iam/users_roles.html#userroles) - a listing of user roles and permissions based on scope and visibility.
 - [Bluemix CLI Commands for Managing Keys and Policies](https://console.bluemix.net/docs/cli/reference/bluemix_cli/bx_cli.html#bx_commands_iam) - a listing and description of the various command line options for managing keys and policies for IAM.
 - [IAM Recipe for IBM Cloud Access & Migration Path from CF](https://brandymguillory.wordpress.com/2018/05/31/iam-recipe-for-ibm-cloud-access-migration-path-from-cf/) - a nice walk through of setting up IAM for a real-world application.
+- [Creating Dynamic Rules for Access Groups](https://console.bluemix.net/docs/iam/accessgroup_rules.html#rules) - if you have SAML federated identity management, then you can create dyanmic rules that take advantage of some of those SAML assertions that you have set up within your organization.
 
 ### App ID
 
