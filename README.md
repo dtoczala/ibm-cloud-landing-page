@@ -421,3 +421,7 @@ https://developer.ibm.com/dwblog/author/<author_id>/feed/
 Here are some examples:
 - To follow Dan Toczala's content, use https://developer.ibm.com/dwblog/author/dtoczala/feed/.
 - To follow Joe Kozhaya's content, use https://developer.ibm.com/dwblog/author/kozhaya/feed/
+
+## Finding training Classes
+
+A good place to find training and certification courses for the IBM Cloud is on the [Global Knowledge website](https://www.globalknowledge.com/us-en/training/course-catalog/brands/ibm/ibm-cloud/).  Global Knowledge is a certified IBM Training provider, and they also offer certification prepartion.
