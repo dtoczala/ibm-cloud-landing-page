@@ -101,7 +101,9 @@ Cloud Object Storage (COS) is one form of storage available to users of the IBM 
 
 ### References for Further Reading
 - [Working With IBM Cloud Object Storage In Python](https://medium.com/ibm-data-science-experience/working-with-ibm-cloud-object-storage-in-python-fe0ba8667d5f) - A simple project that shows how to use Cloud Object Storage (COS) in conjunction with a [Data Science Experience (DSX)](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#data-and-analytics) project, all in Python.
-- [Connecting an s3 API-Compatible Third-Party Utility to work with IBM Cloud Object Storage](https://github.com/jamesbeltonIBM/Connecting-an-s3-API-Compatible-Third-Party-Utility-to-work-with-IBM-Cloud-Object-Storage-/blob/master/ConnectaThirdPartyUtilitytoObjectStorage.pdf) - a nice "how to" showing how to hook up and use [Transmit](https://panic.com/transmit/) to move things to and from IBM Cloud Object Storage. 
+- [Connecting an s3 API-Compatible Third-Party Utility to work with IBM Cloud Object Storage](https://github.com/jamesbeltonIBM/Connecting-an-s3-API-Compatible-Third-Party-Utility-to-work-with-IBM-Cloud-Object-Storage-/blob/master/ConnectaThirdPartyUtilitytoObjectStorage.pdf) - a nice "how to" showing how to hook up and use [Transmit](https://panic.com/transmit/) to move things to and from IBM Cloud Object Storage.
+- [How to Use IBM Cloud Object Storage When Building and Operating Cloud Native Applications](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/redp5491.html?Open) - an IBM Redbook on using Cloud Object Storage on the IBM Cloud.
+- [Cloud Object Storage as a Service: IBM Cloud Object Storage from Theory to Practice - For developers, IT architects and IT specialists](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248385.html?Open) - another IBM Redbook covering the basics of Cloud Object Storage for developers, architects, and operations.
 
 ## Network
 
