@@ -140,11 +140,13 @@ If you are curious abut how to structure your project which will deploy to produ
 
 ## VMware
 
-Ipso facto lipitor walla-walla
+[VMware Cloud Foundation® (VCF)](https://console.bluemix.net/infrastructure/vmware-solutions/console/gettingstarted/vcf) and [vCenter Server (VCS)](https://console.bluemix.net/infrastructure/vmware-solutions/console/gettingstarted/vcs) on IBM Cloud provide the fundamental building blocks that include [VMware vSphere](https://console.bluemix.net/infrastructure/vmware-solutions/console/gettingstarted/vss), [vCenter Server (VCS)](https://console.bluemix.net/infrastructure/vmware-solutions/console/gettingstarted/vcs), and shared storage options including vSAN, needed to flexibly architect a VMware software–defined data center (SDDC) solution that best fits your workloads. 
+
+By using advanced automation and single–tto the client in a matter of hours. At this point, the client can access and manage the IBM–hosted environment via the native VMware clients, Command Line Interface (CLI), existing scripts, or other familiar vSphere API–compatible tools.
 
 ### References for Further Reading
-- [grunt](https://grunt) - A simple sound
-
+- [VMware on IBM Cloud Solution Architecture](https://www.ibm.com/cloud/garage/files/VMware-on-IBM-Cloud-Solution-Architecture.pdf) - The solution architecture for VMware on the IBM Cloud.
+- [Virtualization Reference Architecture](https://www.ibm.com/cloud/garage/architectures/virtualizationArchitecture/reference-architecture) - the reference architecture for virtualization on the IBM Cloud.
 
 ---
 # Platform Services and APIs
