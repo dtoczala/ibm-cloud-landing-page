@@ -83,6 +83,8 @@ When architecting cloud applications, you need to be aware of the fact that Clou
 - [What are Microservices?](https://developer.ibm.com/cloud-microservices/) - a quick discussion of microservices and how they work with Agile development practices and Cloud infrastructures.  Good overview.
 - [Site Reliability Engineering, the Cloud Approach to Operations](https://www.ibm.com/blogs/bluemix/2017/08/site-reliability-engineering-cloud-approach-operations/) - a quick discussion of the importance of Site Reliability Engineering for Cloud applications.
 - [99.95% availability. Balancing release velocity and reliability](https://www.ibm.com/blogs/bluemix/2017/09/sre-availability-balancing-release-velocity-reliability/) - a quick discussion of the importance of monitoring to DevOps, and how this impacts the reliability of cloud based applications.
+- [Developing Node.js Applications on IBM Cloud](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248406.html?Open) - an IBM Redbook which walks through examples of developing Node,js application on the IBM Cloud.
+- [Essentials of Application Development on IBM Cloud](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg248374.html?Open) - another IBM Redbook, this one covers some of the basics around application development on the IBM Cloud.  Great for learning those foundational Cloud development skills - and a key piece of preparation for Cloud certification.
 
 ---
 # Infrastructure Services and APIs
