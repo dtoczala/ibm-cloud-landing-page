@@ -350,6 +350,7 @@ Another really good source of information on setting up roles and DevOps pipelin
 ## The IBM Cloud CLI - Your Best Tool
 
 The best tool that you have at your displosal is the [IBM Cloud Command Line Interface (CLI) tool](https://console.bluemix.net/docs/cli/index.html#overview).  This tool will allow you to do almost anything in the IBM Cloud, and will enable you to use scripts to automate your most repetitive IBM Cloud administrative tasks.  Just follow the directions on the [IBM Cloud CLI Installation](https://console.bluemix.net/docs/cli/reference/ibmcloud/download_cli.html#install_use) page.  Most of these deal with "interactive" tool installation, but if you would rather download the latest binaries and put the installed tool in some custom location, make sure to check out the [CLI image download links](https://console.bluemix.net/docs/cli/reference/ibmcloud/download_cli.html#install-to-a-custom-directory) for the most popular OS platforms.
+If you are having issues with the IBM Cloud ClI conecting, make sure that you can "see" the IBM Cloud site API endpoint (which is at api.ng.bluemix.net), and that you can "talk" on port 443.  You may need to have your IT team create some firewall rules to allow this communication to happen.
 
 ## Other Tools You Can Use
 
