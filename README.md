@@ -65,6 +65,7 @@ The IBM Cloud itself is based on [Cloud Foundry](https://www.cloudfoundry.org/) 
 - [Five facts you may not know about Cloud Foundry](https://www.ibm.com/developerworks/cloud/library/cl-5-facts-about-cloud-foundry/index.html) - a deeper technical article outlining the capabilities and limitations of Cloud Foundry, which deals with 5 common misconceptions about the platform.
 - [Getting Started with the IBM Cloud CLI](https://console.bluemix.net/docs/cli/reference/bluemix_cli/get_started.html#getting-started) - online documentation introducing use of the command line interface for the IBM Cloud.
 - [Service Availability Catalog by Region](https://mycatalog.mybluemix.net/) - shows availability of services based on region, type of service and some other filters.  Is the Watson Conversation service available in the Australian region?  Find out here...
+- [IBM Cloud Foundation Skills Series](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) - a series of videos on various technical subjects around the IBM Cloud technology.  Some really good videos here.
 
 ## IBM Softlayer - an Infrastructure as a Service (IaaS)
 
@@ -96,12 +97,14 @@ Compute resources include [bare metal servers](https://console.bluemix.net/catal
 ### References for Further Reading
 - [Interacting With a Device](https://console.bluemix.net/docs/vsi/vsi_interact_device_snapshot_view.html#interact-with-a-device-in-snapshot-view) - A simple guide to some basic operations with a virtual server instance.
 - [Managing Device Access](https://console.bluemix.net/docs/vsi/vsi_device_access.html#managing-device-access) - a simple guide to managing access to virtual server instances.
+- [What are the Different Types of Virtual Server?](https://www.youtube.com/watch?v=ARUefnCR9xw&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz&index=17) - part of the [IBM Cloud Foundation Skills Series](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series, this 7 minute video will walk you through the basics of virtual servers, and what the different types of virtual server are able to do.
 
 ## Storage
 
 Cloud Object Storage (COS) is one form of storage available to users of the IBM Cloud platform.  Cloud Object Storage provides storage in the cloud of a persistent set of objects - for later retrieval.  You can store, manage and access your data via a self-service portal and RESTful APIs.
 
 ### References for Further Reading
+- [Introduction to Cloud Object Storage](https://www.youtube.com/watch?v=2WPsC6AgAJY&index=18&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) - part of the [IBM Cloud Foundation Skills Series](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series, this 6 minute video will walk you through the basics of Cloud Object Storage.
 - [Working With IBM Cloud Object Storage In Python](https://medium.com/ibm-data-science-experience/working-with-ibm-cloud-object-storage-in-python-fe0ba8667d5f) - A simple project that shows how to use Cloud Object Storage (COS) in conjunction with a [Data Science Experience (DSX)](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#data-and-analytics) project, all in Python.
 - [Connecting an s3 API-Compatible Third-Party Utility to work with IBM Cloud Object Storage](https://github.com/jamesbeltonIBM/Connecting-an-s3-API-Compatible-Third-Party-Utility-to-work-with-IBM-Cloud-Object-Storage-/blob/master/ConnectaThirdPartyUtilitytoObjectStorage.pdf) - a nice "how to" showing how to hook up and use [Transmit](https://panic.com/transmit/) to move things to and from IBM Cloud Object Storage.
 - [How to Use IBM Cloud Object Storage When Building and Operating Cloud Native Applications](http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/redp5491.html?Open) - an IBM Redbook on using Cloud Object Storage on the IBM Cloud.
@@ -305,8 +308,9 @@ You can manage users across the IBM Cloud platform and Infrastructure services f
 - [Bluemix CLI Commands for Managing Keys and Policies](https://console.bluemix.net/docs/cli/reference/bluemix_cli/bx_cli.html#bx_commands_iam) - a listing and description of the various command line options for managing keys and policies for IAM.
 - [IAM Recipe for IBM Cloud Access & Migration Path from CF](https://brandymguillory.wordpress.com/2018/05/31/iam-recipe-for-ibm-cloud-access-migration-path-from-cf/) - a nice walk through of setting up IAM for a real-world application.
 - [Creating Dynamic Rules for Access Groups](https://console.bluemix.net/docs/iam/accessgroup_rules.html#rules) - if you have SAML federated identity management, then you can create dyanmic rules that take advantage of some of those SAML assertions that you have set up within your organization.
+- [Cloud Foundry and IAM Admin 101](https://www.youtube.com/watch?v=w2AyDVS2SSM&index=12&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) - part of the [IBM Cloud Foundation Skills Series](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series, this 20 minute video will walk you through the basics of Cloud Foundry role management and the IAM identity and role management.
 
-### App ID
+ ### App ID
 
 Use the IBM Cloud App ID service to add authentication to your mobile and web apps and protect your back-end systems. You can also host user profile info that you can use to build engaging experiences. App ID supports authentication using social identity providers, so that users can log-in with their existing Facebook and Google accounts.  This is meant to support user authentication, and should not be your only security consideration.
 
