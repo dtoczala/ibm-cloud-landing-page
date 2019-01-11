@@ -98,6 +98,8 @@ Compute resources include [bare metal servers](https://console.bluemix.net/catal
 - [Interacting With a Device](https://console.bluemix.net/docs/vsi/vsi_interact_device_snapshot_view.html#interact-with-a-device-in-snapshot-view) - A simple guide to some basic operations with a virtual server instance.
 - [Managing Device Access](https://console.bluemix.net/docs/vsi/vsi_device_access.html#managing-device-access) - a simple guide to managing access to virtual server instances.
 - [What are the Different Types of Virtual Server?](https://www.youtube.com/watch?v=ARUefnCR9xw&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz&index=17) - part of the [IBM Cloud Foundation Skills Series](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series, this 7 minute video will walk you through the basics of virtual servers, and what the different types of virtual server are able to do.
+- [Bare Metal Server Basics](https://www.youtube.com/watch?v=vDRm7JqBy3k&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz&index=15) - An 8 minute overview of bare metal servers on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series on YouTube.
+- [What are the Different Types of Virtual Server?](https://www.youtube.com/watch?v=ARUefnCR9xw&index=16&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) - A 7 minute explanation and description of the various different types of virtual servers on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series on YouTube.
 
 ## Storage
 
