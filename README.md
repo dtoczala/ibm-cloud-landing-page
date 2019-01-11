@@ -124,7 +124,7 @@ Network services on the IBM Cloud can be used to configure your Cloud applicatio
 Deploying securely is always an issue for people using any cloud infrastructure.  It's important to remember that there are many different aspects to security - from the security and roles associatedc with specific users in the development environments, to the access and security of the production environments.
 
 ### References for Further Reading
-- [Intro to Integration, IoT and Security on IBM Cloud](https://www.youtube.com/watch?v=Rzq-bChLaek&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz&index=5) - A 5 minute overview of the integration, Internet of zthings (IoT) and security services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series on YouTube.
+- [Intro to Integration, IoT and Security on IBM Cloud](https://www.youtube.com/watch?v=Rzq-bChLaek&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz&index=5) - A 5 minute overview of the integration, Internet of Things (IoT) and security services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series on YouTube.
 - [The top ten security articles you need to read](https://www.ibm.com/developerworks/security/library/se-top-security-articles-you-need-read/index.html) - We're sorry, a link to an article with more links.  But good for general security awareness.
 - [IBM Cloud Security Patterns](https://github.ibm.com/ibmcloud/cloud-patterns) - on the IBM GitHub instance, but has some nice patterns around deploying secure virtual machines and Kubernetes clusters on the IBM Cloud.  Very nice.
 
@@ -253,7 +253,7 @@ The [Secure Gateway](https://console.bluemix.net/catalog/services/secure-gateway
 [API Connect](https://console.bluemix.net/catalog/services/api-connect) is a comprehensive end-to-end API lifecycle solution that enables the automated creation of APIs, simple discovery of systems of records, self-service access for internal and third party developers and built-in security and governance. Using automated, model-driven tools, create new APIs and microservices based on Node.js and Java runtimes — all managed from a single unified console.
 
 ### References for Further Reading
-- [Intro to Integration, IoT and Security on IBM Cloud](https://www.youtube.com/watch?v=Rzq-bChLaek&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz&index=5) - A 5 minute overview of the integration, Internet of zthings (IoT) and security services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills]
+- [Intro to Integration, IoT and Security on IBM Cloud](https://www.youtube.com/watch?v=Rzq-bChLaek&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz&index=5) - A 5 minute overview of the integration, Internet of Things (IoT) and security services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills]
 - [Secure Gateway with Watson Services on IBM Cloud](https://developer.ibm.com/recipes/tutorials/secure-gateway-with-watson-services-on-ibm-cloud/) - This "receipe" is a quick how-to approach to setting up a Secure Gateway instance with some Watson services that are located on the IBM Cloud.  A nice and quick example.
 
 ## Internet of Things (IoT)
