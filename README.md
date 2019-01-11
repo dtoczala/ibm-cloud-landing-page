@@ -268,7 +268,7 @@ The Internet of Things (IoT) is a huge topic all by itself.  it refers to the sm
 Mobile services are specific to mobile platforms and the applications that run on those mobile platforms.  Typically this means cellular phones, but mobile platforms are expanding and beginning to encompass more than that.   
 
 ### References for Further Reading
-- [Intro to Starter Kits, Web and Mobile on IBM Cloud](https://www.youtube.com/watch?v=Rzq-bChLaek&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz&index=6) - A 5 minute overview of the starter kits, web and mobile services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills]
+- [Intro to Starter Kits, Web and Mobile on IBM Cloud](https://www.youtube.com/watch?v=Rzq-bChLaek&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz&index=6) - A 5 minute overview of the starter kits, web and mobile services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills] series.
 
 ## Security
 
@@ -348,6 +348,8 @@ One of the nice things about a Platform as a Service (PaaS) and Infrastructure a
 You need to break up your IBM Cloud account into different Cloud Foundry organizations (or orgs), with a single org for each project and team.  You can then add users to an org, and give them access, roles and permissions so they can do work within that org.  You can then create individual spaces underneath that org, with each space representing a different stage of development, or development environment.  It is then possible for each team to create their own deployment pipelines which will provide a DevOps capability for their project - and automated deployments to a variety of different environments.  You can read more about this approach in [Getting Started Right on the IBM Cloud](https://dtoczala.wordpress.com/2018/09/20/getting-started-right-on-the-ibm-cloud/).  It is also explained in [Using Organisations more effectively in IBM Cloud](https://thebluemixdigest.wordpress.com/2018/04/10/using-organisations-more-effectively-in-ibm-cloud/).
 
 You can also use Resource Groups to help define groups of resources in your infrastructure, and then provide the ability to limit access to those resources.  The article on [Resource Groups and Access Management](https://www.ibm.com/blogs/bluemix/2017/12/resource-groups-access-management/) discusses some best practices for managing and using resource groups to help provide security.
+
+If you prefer video's, then check out [Cloud Foundry and IAM Administration 101](https://www.youtube.com/watch?v=w2AyDVS2SSM&index=11&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz), a 20 minute video which pulls together many of the concepts discussed in the links above.  It is part of the [James Belton](https://github.com/jamesbeltonIBM) [IBM CLoud Foundation Skills](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series.
 
 Another really good source of information on setting up roles and DevOps pipelines, is the guidance on [best practices for organizing users, teams and applications](https://console.bluemix.net/docs/tutorials/users-teams-applications.html#best-practices-for-organizing-users-teams-applications).  There are some good diagrams and explanations in here, with guidance around Kubernetes, Helm, DevOps, user roles and IAM security.
 
