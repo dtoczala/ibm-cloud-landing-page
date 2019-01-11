@@ -33,7 +33,6 @@ _Note: Why is this titled "bluemix-landing-page"?  In the past, the IBM Cloud pl
    - [Integrate](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#integrate)
    - [Internet of Things (IoT)](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#internet-of-things-iot)
    - [Mobile](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#mobile)
-   - [Network](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#network)
    - [Security](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#security-1)
    - [Watson](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#watson)
 - **[IBM Cloud Administration](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#ibm-cloud-administration)**
@@ -105,6 +104,7 @@ Compute resources include [bare metal servers](https://console.bluemix.net/catal
 Cloud Object Storage (COS) is one form of storage available to users of the IBM Cloud platform.  Cloud Object Storage provides storage in the cloud of a persistent set of objects - for later retrieval.  You can store, manage and access your data via a self-service portal and RESTful APIs.
 
 ### References for Further Reading
+- [Intro to Container, Storage, and Networking Resources on IBM Cloud](https://www.youtube.com/watch?v=cKv8MhVs7ME&index=3&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) - A 12 minute overview of the container, network, and storage services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series on YouTube.
 - [Introduction to Cloud Object Storage](https://www.youtube.com/watch?v=2WPsC6AgAJY&index=18&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) - part of the [IBM Cloud Foundation Skills Series](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series, this 6 minute video will walk you through the basics of Cloud Object Storage.
 - [Working With IBM Cloud Object Storage In Python](https://medium.com/ibm-data-science-experience/working-with-ibm-cloud-object-storage-in-python-fe0ba8667d5f) - A simple project that shows how to use Cloud Object Storage (COS) in conjunction with a [Data Science Experience (DSX)](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#data-and-analytics) project, all in Python.
 - [Connecting an s3 API-Compatible Third-Party Utility to work with IBM Cloud Object Storage](https://github.com/jamesbeltonIBM/Connecting-an-s3-API-Compatible-Third-Party-Utility-to-work-with-IBM-Cloud-Object-Storage-/blob/master/ConnectaThirdPartyUtilitytoObjectStorage.pdf) - a nice "how to" showing how to hook up and use [Transmit](https://panic.com/transmit/) to move things to and from IBM Cloud Object Storage.
@@ -113,16 +113,18 @@ Cloud Object Storage (COS) is one form of storage available to users of the IBM 
 
 ## Network
 
-Ipso facto lipitor walla-walla
+Network services on the IBM Cloud can be used to configure your Cloud applications and resources for secure operation and development.  This includes things like load balancers, content delivery networks, domain name services (DNS), gateway appliances for security, firewalls, direct linking for private connections to the IBM Cloud, VPN's, VLAN's, subnets and everything that you might want to configure in your Cloud deployed resources.
 
 ### References for Further Reading
-- [grunt](https://grunt) - A simple sound
+- [Intro to Container, Storage, and Networking Resources on IBM Cloud](https://www.youtube.com/watch?v=cKv8MhVs7ME&index=3&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) - A 12 minute overview of the container, network, and storage services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series on YouTube.
+
 
 ## Security
 
 Deploying securely is always an issue for people using any cloud infrastructure.  It's important to remember that there are many different aspects to security - from the security and roles associatedc with specific users in the development environments, to the access and security of the production environments.
 
 ### References for Further Reading
+- [Intro to Integration, IoT and Security on IBM Cloud](https://www.youtube.com/watch?v=Rzq-bChLaek&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz&index=5) - A 5 minute overview of the integration, Internet of zthings (IoT) and security services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series on YouTube.
 - [The top ten security articles you need to read](https://www.ibm.com/developerworks/security/library/se-top-security-articles-you-need-read/index.html) - We're sorry, a link to an article with more links.  But good for general security awareness.
 - [IBM Cloud Security Patterns](https://github.ibm.com/ibmcloud/cloud-patterns) - on the IBM GitHub instance, but has some nice patterns around deploying secure virtual machines and Kubernetes clusters on the IBM Cloud.  Very nice.
 
@@ -135,6 +137,7 @@ A key piece of Kubernetes functionality is provided by [Istio](https://istio.io/
 If you are curious abut how to structure your project which will deploy to production on Kubernetes, you should probably read the tutorial [Best practices for organizing users, teams, applications](https://console.bluemix.net/docs/tutorials/users-teams-applications.html#best-practices-for-organizing-users-teams-applications) in Kubernetes.  It will guide you through the process of establishing a project and providing a CICD development environment for your development teams.
 
 ### References for Further Reading
+- [Intro to Container, Storage, and Networking Resources on IBM Cloud](https://www.youtube.com/watch?v=cKv8MhVs7ME&index=3&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) - A 12 minute overview of the container, network, and storage services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series on YouTube.
 - [Container, Docker, Kubernetes Overview](https://console.bluemix.net/docs/containers/cs_ov.html#cs_ov) - From the IBM Cloud documentation.  A simple place to learn the basic concepts.
 - [Best practices for organizing users, teams, applications](https://console.bluemix.net/docs/tutorials/users-teams-applications.html#best-practices-for-organizing-users-teams-applications) - a tutorial that will guide you through the process of establishing a project and providing a CICD development environment for your development teams.
 - [Kubernetes Service Policies](https://www.ibm.com/blogs/bluemix/2017/10/kubernetes-service-policies/) - Read this BEFORE you begin to deploy Kubernetes clusters into your environment.  Failure to do so will result in your clusters being visible globally in your account.  [David Callies](https://www.ibm.com/blogs/bluemix/author/dbcallieus-ibm-com/) post explains how to define and setup policies for your Kubernetes clusters.  You'll thank us later.
@@ -200,6 +203,7 @@ The [Cloudant NoSQL DB](https://console.bluemix.net/catalog/services/cloudant-no
 The [Data Science Experience](https://datascience.ibm.com/) is used by data scientists as a single area with common tools and visualization technologies for their data science work.  Often these data science efforts will be used to build a [Watson Machine Learning](https://console.bluemix.net/catalog/services/machine-learning) (WML) model.
 
 ### References for Further Reading
+- [Intro to Analytics, Databases and Developer Tools Resources on IBM Cloud](https://www.youtube.com/watch?v=XaEdaaorHWU&index=4&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) - A 9 minute overview of the analytics, database, and developer tools services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series on YouTube.
 
 #### Code
 - [Create an analytics application in IBM Data Science Experience (DSX) and Deploy it in Watson Machine Learning (WML)](https://github.com/ibm-cloud-architecture/refarch-data-science) - a GitHub project that walks through creating an analytics application and and deploying the model in Watson Machine Learning.
@@ -217,6 +221,7 @@ The IBM Cloud platform supports a variety of DevOps services, which help organiz
 In March 2018, IBM released a Cloud delivery environment called [Microclimate](https://microclimate-dev2ops.github.io/).  It claims to be able to deploy to multiple Cloud environments, and is built to provide an end to end development environment that lets you rapidly create, edit, and deploy applications. Applications are run in [Docker containers](https://www.docker.com/what-container) from day one and can be delivered into production on [Kubernetes](https://kubernetes.io/) through an automated DevOps pipeline using [Jenkins](https://jenkins.io/). Microclimate can be installed locally or on IBM Cloud Private.  it sounds pretty sharp, but it's new so we don't know how wonderful it really is yet.
 
 ### References for Further Reading
+- [Intro to Analytics, Databases and Developer Tools Resources on IBM Cloud](https://www.youtube.com/watch?v=XaEdaaorHWU&index=4&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) - A 9 minute overview of the analytics, database, and developer tools services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series on YouTube.
 - [Quickly Develop, Build, and Deploy Applications on IBM Cloud with DevOps services - Part 1](https://www.ibm.com/blogs/bluemix/2017/07/quickly-develop-build-deploy-applications-ibm-cloud-devops-services/) - Steve Weaver goes through deploying a toolchain and setting up a development pipeline on the IBM Cloud.
 - [Quickly Develop, Build, and Deploy Applications on IBM Cloud with DevOps services - Part 2](https://grunt) - Steve Weaver goes through the steps to deploy a toolchain for an already existing application on the IBM Cloud.
 - [Master continuous integration and delivery with the IBM Devops Toolchain](https://www.ibm.com/blogs/bluemix/2016/08/master-continuous-integration-delivery-ibm-devops-toolchain/) - good article, worth the time to check out.
@@ -248,28 +253,22 @@ The [Secure Gateway](https://console.bluemix.net/catalog/services/secure-gateway
 [API Connect](https://console.bluemix.net/catalog/services/api-connect) is a comprehensive end-to-end API lifecycle solution that enables the automated creation of APIs, simple discovery of systems of records, self-service access for internal and third party developers and built-in security and governance. Using automated, model-driven tools, create new APIs and microservices based on Node.js and Java runtimes — all managed from a single unified console.
 
 ### References for Further Reading
+- [Intro to Integration, IoT and Security on IBM Cloud](https://www.youtube.com/watch?v=Rzq-bChLaek&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz&index=5) - A 5 minute overview of the integration, Internet of zthings (IoT) and security services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills]
 - [Secure Gateway with Watson Services on IBM Cloud](https://developer.ibm.com/recipes/tutorials/secure-gateway-with-watson-services-on-ibm-cloud/) - This "receipe" is a quick how-to approach to setting up a Secure Gateway instance with some Watson services that are located on the IBM Cloud.  A nice and quick example.
 
 ## Internet of Things (IoT)
 
-Ipso facto lipitor walla-walla
+The Internet of Things (IoT) is a huge topic all by itself.  it refers to the small devices and sensors that operate in the real world, on the edge of the internet, in various different "things" like smart watches, weather sensors, RFID tags, wearable tech, and other devices.  This section is just going to serve as a gateway into your dive into IoT on the IBM Cloud if this is something that you are pursuing.  At some point in the future, this may be large enough and broad enough to warrant a full landing page of it's own.
 
 ### References for Further Reading
-- [grunt](https://grunt) - A simple sound
+- [Intro to Integration, IoT and Security on IBM Cloud](https://www.youtube.com/watch?v=KdOcMBcEGyc&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz&index=5) - A 5 minute overview of the integration, Internet of Things (IoT) and security services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills]
 
 ## Mobile
 
-Ipso facto lipitor walla-walla
+Mobile services are specific to mobile platforms and the applications that run on those mobile platforms.  Typically this means cellular phones, but mobile platforms are expanding and beginning to encompass more than that.   
 
 ### References for Further Reading
-- [grunt](https://grunt) - A simple sound
-
-## Network
-
-Ipso facto lipitor walla-walla
-
-### References for Further Reading
-- [grunt](https://grunt) - A simple sound
+- [Intro to Starter Kits, Web and Mobile on IBM Cloud](https://www.youtube.com/watch?v=Rzq-bChLaek&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz&index=6) - A 5 minute overview of the starter kits, web and mobile services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills]
 
 ## Security
 
