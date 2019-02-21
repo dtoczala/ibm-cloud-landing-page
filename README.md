@@ -121,6 +121,7 @@ Network services on the IBM Cloud can be used to configure your Cloud applicatio
 
 ### References for Further Reading
 - [Intro to Container, Storage, and Networking Resources on IBM Cloud](https://www.youtube.com/watch?v=cKv8MhVs7ME&index=3&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) - A 12 minute overview of the container, network, and storage services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series on YouTube.
+- [Intro to Gateway Appliances](https://ibm-dte.mybluemix.net/network-appliances) - a series of videos helping you to manage your physical and virtual networks for routing multiple VLANs, for firewalls, VPN, traffic shaping and more.
 
 
 ## Security
@@ -143,6 +144,7 @@ If you are curious abut how to structure your project which will deploy to produ
 ### References for Further Reading
 - [Intro to Container, Storage, and Networking Resources on IBM Cloud](https://www.youtube.com/watch?v=cKv8MhVs7ME&index=3&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) - A 12 minute overview of the container, network, and storage services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series on YouTube.
 - [Container, Docker, Kubernetes Overview](https://console.bluemix.net/docs/containers/cs_ov.html#cs_ov) - From the IBM Cloud documentation.  A simple place to learn the basic concepts.
+- [Kubernetes on the IBM Cloud](https://ibm-dte.mybluemix.net/container-service) - a series of educational modules that will help you become familiar with Kubernets and containers on the IBM Cloud.
 - [Best practices for organizing users, teams, applications](https://console.bluemix.net/docs/tutorials/users-teams-applications.html#best-practices-for-organizing-users-teams-applications) - a tutorial that will guide you through the process of establishing a project and providing a CICD development environment for your development teams.
 - [Kubernetes Service Policies](https://www.ibm.com/blogs/bluemix/2017/10/kubernetes-service-policies/) - Read this BEFORE you begin to deploy Kubernetes clusters into your environment.  Failure to do so will result in your clusters being visible globally in your account.  [David Callies](https://www.ibm.com/blogs/bluemix/author/dbcallieus-ibm-com/) post explains how to define and setup policies for your Kubernetes clusters.  You'll thank us later.
 - [Speed deployment on Kubernetes with Helm Chart – Quick YAML example from scratch](https://www.ibm.com/blogs/bluemix/2017/10/quick-example-helm-chart-for-kubernetes/) - Great hands-on tutorial on using containers, Kubernetes, and Helm to deploy a simple application.
@@ -158,6 +160,7 @@ By using advanced automation and single–tto the client in a matter of hours. A
 ### References for Further Reading
 - [VMware on IBM Cloud Solution Architecture](https://www.ibm.com/cloud/garage/files/VMware-on-IBM-Cloud-Solution-Architecture.pdf) - The solution architecture for VMware on the IBM Cloud.
 - [Virtualization Reference Architecture](https://www.ibm.com/cloud/garage/architectures/virtualizationArchitecture/reference-architecture) - the reference architecture for virtualization on the IBM Cloud.
+- [IBM Cloud for VMware Solutions](https://ibm-dte.mybluemix.net/vmware) - a series of educational modules that will help you become familiar with what VMWare can do when hosted on the IBM Cloud.
 
 ---
 # Platform Services and APIs
@@ -182,6 +185,7 @@ Blockchain is one of the most talked about new technologies in recent memory.  I
 
 ### References for Further Reading
 - [IBM Blockchain Developer Center](https://developer.ibm.com/blockchain/) - a good landing page for news and information on Blockchain technology, geared for developers.
+- [IBM Blockchain Platform Overviews](https://ibm-dte.mybluemix.net/cloud-based-blockchain-platform) - as eries of videos and [hands on labs](https://ibm-dte.mybluemix.net/cloud-based-blockchain-platform#deep-dive) that will. help you get started with Blockchain on the IBM Cloud
 - [Blockchain basics: Glossary and use cases](https://www.ibm.com/developerworks/cloud/library/cl-blockchain-basics-glossary-bluemix-trs/) - learn the terminology first, and examples of typical use cases, and then move on and learn more about Blockchain.
 - [IBM Blockchain 101: Quick-start guide for developers](https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html) - A great place to start in your exploration of Blockchain technology.  Highlights different ways to work with and deploy Blockchain based solutions and applications.
 - [Blockchain Basics: Introduction to Distributed Ledgers](https://www.ibm.com/developerworks/cloud/library/cl-blockchain-basics-intro-bluemix-trs/) - a good overview of distributed ledgers and some basic Blockchain concepts.
@@ -208,6 +212,7 @@ The [Data Science Experience](https://datascience.ibm.com/) is used by data scie
 
 ### References for Further Reading
 - [Intro to Analytics, Databases and Developer Tools Resources on IBM Cloud](https://www.youtube.com/watch?v=XaEdaaorHWU&index=4&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) - A 9 minute overview of the analytics, database, and developer tools services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series on YouTube.
+- [Intro to IBM Cloudant](https://ibm-dte.mybluemix.net/database-management) - a sxeries of getting started videos which can help you get started with using the IBM Cloudant database service.
 
 #### Code
 - [Create an analytics application in IBM Data Science Experience (DSX) and Deploy it in Watson Machine Learning (WML)](https://github.com/ibm-cloud-architecture/refarch-data-science) - a GitHub project that walks through creating an analytics application and and deploying the model in Watson Machine Learning.
@@ -243,6 +248,7 @@ IBM Cloud Functions (based on [Apache OpenWhisk](https://openwhisk.incubator.apa
 
 ### References for Further Reading
 - [OpenWhisk/Functions Concepts](https://console-regional.ng.bluemix.net/openwhisk/learn/concepts) - A great starting point to understand the concepts behind the Functions capability.
+- [IBM Functions Overview](https://ibm-dte.mybluemix.net/functions) - A series of videos highlighting the utility and usage of IBM Functions (based on [OpenWhisk](https://openwhisk.incubator.apache.org/)) on the IBM Cloud.
 - [Rethinking the way you build software with serverless](https://sdtimes.com/cloud/rethinking-the-way-you-build-software-with-serverless/)- Nice article that covers serverless concepts and the benefits of going in a serverless direction.
 - [Functions CLI](https://console-regional.ng.bluemix.net/openwhisk/learn/cli) - install and test out the Functions CLI.
 - [Invoking a microservice hosted on IBM Cloud Functions](https://developer.ibm.com/tv/dw-mailbag-invoking-microservice-hosted-ibm-cloud-functions/) - a humorous video on how to call an IBM Cloud Function from a Node.js application.
@@ -283,6 +289,7 @@ If you are doing penetration testing or load testing of IBM Cloud based applicat
 #### References for Further Reading
 - [The top ten security articles you need to read](https://www.ibm.com/developerworks/security/library/se-top-security-articles-you-need-read/index.html) - We're sorry, a link to an article with more links.  But good for general security awareness.
 - [List of IP Ranges for various datacenters](https://knowledgelayer.softlayer.com/faq/what-ip-ranges-do-i-allow-through-firewall) - For determining what IP ranges to use for the various data centers, when configuring your own security.
+- [Intro to the Secure Gateway Service](https://ibm-dte.mybluemix.net/secure-gateway) - some videos introducing you to a cloud service that enables you to establish a secure tunnel between the specific resources you want to connect.
 
 ### Events and Logs
 
