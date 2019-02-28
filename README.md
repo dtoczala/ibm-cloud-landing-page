@@ -161,6 +161,7 @@ By using advanced automation and single–tto the client in a matter of hours. A
 - [VMware on IBM Cloud Solution Architecture](https://www.ibm.com/cloud/garage/files/VMware-on-IBM-Cloud-Solution-Architecture.pdf) - The solution architecture for VMware on the IBM Cloud.
 - [Virtualization Reference Architecture](https://www.ibm.com/cloud/garage/architectures/virtualizationArchitecture/reference-architecture) - the reference architecture for virtualization on the IBM Cloud.
 - [IBM Cloud for VMware Solutions](https://ibm-dte.mybluemix.net/vmware) - a series of educational modules that will help you become familiar with what VMWare can do when hosted on the IBM Cloud.
+- [Getting Started with VMWare vCentre on the IBM Cloud](https://github.com/jamesbeltonIBM/gettingStartedwithvCentre/blob/master/Getting%20Started%20with%20VMWare%20vCentre%20on%20the%20IBM%20Cloud.pdf) - a PDF with some good guidance on getting started with vCenter on the IBM Cloud.
 
 ---
 # Platform Services and APIs
