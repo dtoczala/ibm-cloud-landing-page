@@ -117,11 +117,12 @@ Cloud Object Storage (COS) is one form of storage available to users of the IBM 
 
 ## Network
 
-Network services on the IBM Cloud can be used to configure your Cloud applications and resources for secure operation and development.  This includes things like load balancers, content delivery networks, domain name services (DNS), gateway appliances for security, firewalls, direct linking for private connections to the IBM Cloud, VPN's, VLAN's, subnets and everything that you might want to configure in your Cloud deployed resources.
+Network services on the IBM Cloud can be used to configure your Cloud applications and resources for secure operation and development.  This includes things like [load balancers](https://cloud.ibm.com/catalog/infrastructure/load-balancer-group), content delivery networks, domain name services (DNS), gateway appliances for security, firewalls, direct linking for private connections to the IBM Cloud, VPN's, VLAN's, subnets and everything that you might want to configure in your Cloud deployed resources.
 
 ### References for Further Reading
 - [Intro to Container, Storage, and Networking Resources on IBM Cloud](https://www.youtube.com/watch?v=cKv8MhVs7ME&index=3&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) - A 12 minute overview of the container, network, and storage services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series on YouTube.
 - [Intro to Gateway Appliances](https://ibm-dte.mybluemix.net/network-appliances) - a series of videos helping you to manage your physical and virtual networks for routing multiple VLANs, for firewalls, VPN, traffic shaping and more.
+- [Load Balancer Lab](https://www.youtube.com/watch?v=oZnRBf783Gw&feature=youtu.be) - part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series on YouTube, this hands on lab shows you how to set up a simple application with three nodes, all froneted by a load balancer with some basic security.  He goes through setting up the security groups and everything.
 
 
 ## Security
