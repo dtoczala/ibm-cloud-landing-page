@@ -214,7 +214,8 @@ The [Data Science Experience](https://datascience.ibm.com/) is used by data scie
 
 ### References for Further Reading
 - [Intro to Analytics, Databases and Developer Tools Resources on IBM Cloud](https://www.youtube.com/watch?v=XaEdaaorHWU&index=4&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) - A 9 minute overview of the analytics, database, and developer tools services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series on YouTube.
-- [Intro to IBM Cloudant](https://ibm-dte.mybluemix.net/database-management) - a sxeries of getting started videos which can help you get started with using the IBM Cloudant database service.
+- [Intro to IBM Cloud Databases](https://www.youtube.com/watch?v=_AZUwxfQRRA&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz&index=37) - A 9 minute overview of the analytics, database, and developer tools services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series on YouTube.
+- [Intro to IBM Cloudant](https://ibm-dte.mybluemix.net/database-management) - a series of getting started videos which can help you get started with using the IBM Cloudant database service.
 
 #### Code
 - [Create an analytics application in IBM Data Science Experience (DSX) and Deploy it in Watson Machine Learning (WML)](https://github.com/ibm-cloud-architecture/refarch-data-science) - a GitHub project that walks through creating an analytics application and and deploying the model in Watson Machine Learning.
