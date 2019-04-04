@@ -68,10 +68,21 @@ The IBM Cloud itself is based on [Cloud Foundry](https://www.cloudfoundry.org/) 
 
 ## IBM Softlayer - an Infrastructure as a Service (IaaS)
 
-Softlayer is the IBM Cloud IaaS product which provides a wide array of  infrastructure capabilities that allow you to move your computing workload to a scalable and "on demand" foundation.  These are exposed within the IBM Cloud interface as "Infrastructure", and allow you to select from different resource options like Devices, Storage, Network, Security, as well as some add-on services.
+Softlayer is the IBM Cloud IaaS product which provides a wide array of infrastructure capabilities that allow you to move your computing workload to a scalable and "on demand" foundation.  These are exposed within the IBM Cloud interface as "Infrastructure", and allow you to select from different resource options like Devices, Storage, Network, Security, as well as some add-on services.
 
 ### References for Further Reading
 - [Regulate access to your network resources with IBM Cloud security groups](https://www.ibm.com/blogs/bluemix/2017/09/network-security-groups/) - this page is good place to start for learning about creating, using and maintaining security groups.
+
+## IBM Cloud Terms and Topologies
+
+In traditional Cloud environments, and when using deployment technologies like [Kubernetes](https://cloud.ibm.com/kubernetes/catalog/cluster) for deployment into those envirtonments, it is important to know something about how applications are expected to respond to changes in the environment.  The important thing to understand is some of the basic concepts, and have an understanding f the terminology being used.
+
+A **Geography** is a large geographical area, which may contain multiple **Regions**.  IBM Cloud users will deploy their applications into **Regions** that they specify (like US East or US South).  Regions will consist of either one **Zone** (in which case it is referred to as a **Single Zone Region or SZR**), or at least three **Zones** (in which case it is referred to as a **Multi Zone Region or MZR**).  A **Zone** is a logically isolated Data Center in a **Region** with independent electrical, mechanical and network infrastructures isolated from other Zones.
+
+When used in conjunction with [Kubernetes](https://cloud.ibm.com/kubernetes/catalog/cluster), an MZR can provide a level of highly-available (HA) capability for an application.
+
+### References for Further Reading
+- [Geography / Region / Zone Characteristics](https://pages.github.ibm.com/CloudEngineering/system_architecture/regions_zones.html) - a great overview of the terminology used to describe the infrastructure supporting the [IBM Cloud](https://cloud.ibm.com).  There is a section on deployment patterns which is good to read.  It also has a table at the end of the page of all of the current regions, zones, and data centers available.
 
 ## Architecting Cloud Applications
 
