@@ -12,6 +12,7 @@ _Note: Why is this titled "bluemix-landing-page"?  In the past, the IBM Cloud pl
 - **[Introduction - Getting Started](https://github.com/dtoczala/bluemix-landing-page#introduction---getting-started)**
    - [IBM Cloud - a Platform as a Service (PaaS)](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#ibm-bluemix---a-platform-as-a-service-paas)
    - [IBM Softlayer - an Infrastructure as a Service (IaaS)](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#ibm-softlayer---an-infrastructure-as-a-service-iaas)
+   - [IBM Cloud Terms and Topologies](https://github.com/dtoczala/ibm-cloud-landing-page/blob/master/README.md#ibm-cloud-terms-and-topologies)
    - [Architecting Cloud Applications](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#architecting-cloud-applications)
 - **[Infrastructure Sevices and APIs](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#infrastructure-services-and-apis)**
    - [Compute](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#compute)
