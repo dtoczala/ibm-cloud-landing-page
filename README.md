@@ -241,6 +241,9 @@ The [Data Science Experience](https://datascience.ibm.com/) is used by data scie
 - [Cloudant NoSQL DB backup and recovery](https://console.bluemix.net/docs/services/Cloudant/guides/backup-cookbook.html#cloudant-nosql-db-backup-and-recovery) - From the online documentation - goes over the basics.  Also see the section on [Disaster Recovery and Backup](https://console.bluemix.net/docs/services/Cloudant/guides/disaster-recovery-and-backup.html#disaster-recovery-and-backup).
 - [Who Limits the Rate-Limiters?](https://medium.com/ibm-watson-data-lab/who-limits-the-rate-limiter-68013263f9d2) - an interesting article on how to effectively use the queueing of API requests to use Cloudant more efficiently.
 
+#### DB2
+- [Foundational Skills - DB2](https://www.youtube.com/watch?v=IUhX17saCJ0&feature=youtu.be) - A 20 minute video from [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series on YouTube.  A bit lengthy, but a good start to using the DB2 service on the IBM Cloud.
+
 ## DevOps
 
 The IBM Cloud platform supports a variety of DevOps services, which help organizations create software development toolchains and environments for doing [Continuous Integration (CI)](https://en.wikipedia.org/wiki/Continuous_integration) and [Continuous Delivery (CD)](https://en.wikipedia.org/wiki/Continuous_delivery).  These allow you to provide an Agile development environment where changes are built and deployed in an automated manner, allowing teams to move quickly into development environments, integrating code as they deliver.
