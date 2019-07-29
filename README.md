@@ -142,11 +142,12 @@ In 2019 a new functionality was introduced to the IBM Cloud, called Virtual Priv
 
 ## Security
 
-Deploying securely is always an issue for people using any cloud infrastructure.  It's important to remember that there are many different aspects to security - from the security and roles associatedc with specific users in the development environments, to the access and security of the production environments.
+Deploying securely is always an issue for people using any cloud infrastructure.  It's important to remember that there are many different aspects to security - from the security and roles associated with specific users in the development environments, to the access and security of the production environments.  
 
 ### References for Further Reading
 - [Intro to Integration, IoT and Security on IBM Cloud](https://www.youtube.com/watch?v=Rzq-bChLaek&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz&index=5) - A 5 minute overview of the integration, Internet of Things (IoT) and security services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series on YouTube.
 - [The top ten security articles you need to read](https://www.ibm.com/developerworks/security/library/se-top-security-articles-you-need-read/index.html) - We're sorry, a link to an article with more links.  But good for general security awareness.
+- [How to Enhance Security by Rotating Service Credentials](https://www.ibm.com/cloud/blog/how-to-enhance-security-by-rotating-service-credentials) - I always want to be secure from the start when developing apps, but I am always unsure how to start and set up a strategy for credentials that makes sense (and works in the long term).  After reading this article - no more excuses.  Securing your app in easy and can be easily incorporated into your DevOps processes. 
 - [IBM Cloud Security Patterns](https://github.ibm.com/ibmcloud/cloud-patterns) - on the IBM GitHub instance, but has some nice patterns around deploying secure virtual machines and Kubernetes clusters on the IBM Cloud.  Very nice.
 
 ## Containers
