@@ -276,6 +276,7 @@ IBM Cloud Functions (based on [Apache OpenWhisk](https://openwhisk.incubator.apa
 - [Functions CLI](https://console-regional.ng.bluemix.net/openwhisk/learn/cli) - install and test out the Functions CLI.
 - [Invoking a microservice hosted on IBM Cloud Functions](https://developer.ibm.com/tv/dw-mailbag-invoking-microservice-hosted-ibm-cloud-functions/) - a humorous video on how to call an IBM Cloud Function from a Node.js application.
 - [Capture audience feedback with IBM Bluemix OpenWhisk](https://www.ibm.com/blogs/bluemix/2017/02/capture-audience-feedback-with-ibm-bluemix-openwhisk/?social_post=812305763&fst=Learn&linkId=34571093) - great demo application implemented on a "serverless" platform using IBM Cloud Functions.
+- [IBM Cloud Usage Tool](https://github.com/IBM-Cloud/openwhisk-cloud-usage-sample) _ a great little tool that helps you break down your IBM Cloud usage, and it is deployed as an OpenWhisk function.  Great little projec t to learn OpenWhisk, and to get a better view of your IBM Cloud usage.
 
 ## Integrate
 
