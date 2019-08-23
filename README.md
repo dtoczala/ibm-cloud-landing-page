@@ -158,6 +158,8 @@ A key piece of Kubernetes functionality is provided by [Istio](https://istio.io/
 
 If you are curious abut how to structure your project which will deploy to production on Kubernetes, you should probably read the tutorial [Best practices for organizing users, teams, applications](https://console.bluemix.net/docs/tutorials/users-teams-applications.html#best-practices-for-organizing-users-teams-applications) in Kubernetes.  It will guide you through the process of establishing a project and providing a CICD development environment for your development teams.
 
+You might also want to look into using [Open Shift](https://www.ibm.com/cloud/openshift), if you don't have a definite idea of how you want to implement your CI/CD pipelines and work environments.  You can learn more about the differences between [Kubernetes](https://console.bluemix.net/docs/containers/cs_ov.html#kubernetes_basics) and [Open Shift](https://www.ibm.com/cloud/openshift) by watching this quick video on [Kubernetes and OpenShift: What's the Difference?](https://www.youtube.com/watch?v=cTPFwXsM2po).
+
 ### References for Further Reading
 - [Intro to Container, Storage, and Networking Resources on IBM Cloud](https://www.youtube.com/watch?v=cKv8MhVs7ME&index=3&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) - A 12 minute overview of the container, network, and storage services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series on YouTube.
 - [Container, Docker, Kubernetes Overview](https://console.bluemix.net/docs/containers/cs_ov.html#cs_ov) - From the IBM Cloud documentation.  A simple place to learn the basic concepts.
@@ -167,6 +169,7 @@ If you are curious abut how to structure your project which will deploy to produ
 - [Speed deployment on Kubernetes with Helm Chart – Quick YAML example from scratch](https://www.ibm.com/blogs/bluemix/2017/10/quick-example-helm-chart-for-kubernetes/) - Great hands-on tutorial on using containers, Kubernetes, and Helm to deploy a simple application.
 - [Enable your microservices with advanced traffic management and request tracing capabilities using Istio](https://developer.ibm.com/code/patterns/manage-microservices-traffic-using-istio/) - a good demo (with code) for the beginner who wants to learn more about Istio.
 - [How Istio manages microservice applications – A traffic flow analysis](https://developer.ibm.com/dwblog/2017/how-istio-manages-microservice-applications/) - a quick read and associated video, which explains how Istio does the routing to your Kubernetes based microservices.
+- [Isolating Clusters with Calico Policies in IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/blog/isolating-clusters-with-calico-policies-in-ibm-cloud-kubernetes-service) - a quick read about how you can isolate your Kubernetes clusters and provide security for your clloud based applications.
 
 ## VMware
 
