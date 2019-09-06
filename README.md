@@ -403,11 +403,12 @@ If you are having issues with the IBM Cloud CLI connecting, make sure that you c
 
 Here is a list of some of the tools that are available to help in the administration and management of your IBM Cloud infrastructure.  Check these out and use the ones that seem to fit best with your own usage of the IBM Cloud.
 
--[All-In-One Tool for Backing Up IBM Cloud and Watson Services](https://github.com/modlanglais/ibm-cloud-backup) - a Python project, led by [Morgan Langlais](https://github.com/modlanglais), out on GitHub which will backup (and eventually restore) your IBM Cloud and IBM Watson repositories and services.
+- [All-In-One Tool for Backing Up IBM Cloud and Watson Services](https://github.com/modlanglais/ibm-cloud-backup) - a Python project, led by [Morgan Langlais](https://github.com/modlanglais), out on GitHub which will backup (and eventually restore) your IBM Cloud and IBM Watson repositories and services.
 - [My Console](http://myconsole.mybluemix.net/) - a simple app deployed out on the IBM Cloud which will ask for your credentials, and will then display an interactive view of your IBM Cloud environment and usage.
 - [Billing Insights](https://mybilling.mybluemix.net/#/login) - this application is nice, read the [blog post on the tool](https://www.ibm.com/blogs/bluemix/2017/09/get-real-time-billing-insights-bluemix-account/), and you can grab the [code for it from GitHub](https://github.ibm.com/maria-borbones/mybilling) and deploy your own version if you want.
 - [Administering Your IBM Cloud Account](https://developer.ibm.com/dwblog/2018/administering-your-ibm-cloud-account-a-script-to-help/) - blog post with an associated [GitHub repository](https://github.com/dtoczala/IBM_Cloud_Admin) which has a Python script for an interactive and scriptable command line tool to help administer your IBM Cloud account.
 - [Using Terraform with the IBM Cloud Provider](https://ibm-cloud.github.io/tf-ibm-docs/#using-terraform-with-the-ibm-cloud-provider) - using Teraform to manage your IBM Cloud infrastructure is an easy way to automate full blown deployments onto the IBM Cloud.
+- [CURL Cookbook](https://catonmat.net/cookbooks/curl) - not a tool, but a collection of web pages that will help you do ANYTHING that you need to do with CURL.  Great reference material - bookmark this for yourself.
 
 
 ### References for Further Reading
