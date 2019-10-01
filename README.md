@@ -199,10 +199,10 @@ Ipso facto lipitor walla-walla
 
 ## Application Services
 
-Ipso facto lipitor walla-walla
+Though it's listed under Databases, [Messages for RabbitMQ](https://cloud.ibm.com/catalog/services/messages-for-rabbitmq) routes messages between microservices for modern applications. [Messages for RabbitMQ](https://cloud.ibm.com/catalog/services/messages-for-rabbitmq) makes RabbitMQ even better by managing it for you and allowing you to focus on development of your microservices and your overall architecture.
 
 ### References for Further Reading
-- [grunt](https://grunt) - A simple sound
+- [Getting Started with IBM Cloud Messages for RabbitMQ](https://www.ibm.com/cloud/blog/getting-started-with-ibm-cloud-messages-for-rabbitmq) - A simple beginners guide that helps you see the difference between [Messages for RabbitMQ](https://cloud.ibm.com/catalog/services/messages-for-rabbitmq) and [Compose for Rabbit MQ/CloudAMQP](https://cloud.ibm.com/catalog/services/cloudamqp).  Allows you to make an informed choice of how you want to deploy Rabbit MQ for your application.
 
 ## Blockchain
 
