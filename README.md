@@ -43,6 +43,7 @@ _Note: Why is this titled "bluemix-landing-page"?  In the past, the IBM Cloud pl
 - **[Common IBM Cloud Use Cases](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#common-bluemix-use-cases)**
    - [Cognitive Applications](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#cognitive-applications)
 - **[Common Tips and Tricks](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#common-tips-and-tricks)**
+   - [IBM Cloud API's and Core SDKs]()
    - [Debugging Node.js and Java applications on Bluemix](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#debugging-nodejs-and-java-applications-on-bluemix)
    - [Staying Aware of Watson and Cloud Best practices](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#staying-aware-of-watson-and-cloud-best-practices)
 ---
@@ -454,6 +455,13 @@ Many organizations are moving towards [microservice architectures](https://www.i
 ---
 # Common Tips and Tricks
 This section will cover some of the common tips and tricks used by Cloud development professionals, and covers some of those things that are not addressed in the documentation.
+
+## IBM Cloud API's and Core SDKs
+Each of the services on the IBM Cloud has their own API, and most have an SDK of some sort.  However, if you want to manage and administer the entire IBM Cloud environment, then you need to use some of the [IBM Cloud Platform API's](https://cloud.ibm.com/apidocs?category=platform_services).  These include things like the API for [IBM Cloud usage metering](https://cloud.ibm.com/apidocs/usage-metering), [IBM Cloud Resource Management](https://cloud.ibm.com/apidocs/resource-manager), [IBM Cloud User Management](https://cloud.ibm.com/apidocs/user-management), and a bunch of other platform capabilities.
+
+Also be aware that these can be accessed programmatically by using one of the following SDK's:
+- [Node SDK](https://www.npmjs.com/package/ibm-cloud-sdk-core)
+- [Python SDK](https://pypi.org/project/ibm-cloud-sdk-core/)
 
 ## Common Cloud Best Practices and Good Habits
 There are some generic best practices and good habits that we have found make life easier for software development teams working in a Cloud environment.  Here's a quick list of some of the better ones that we have seen:
