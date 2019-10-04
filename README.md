@@ -43,7 +43,7 @@ _Note: Why is this titled "bluemix-landing-page"?  In the past, the IBM Cloud pl
 - **[Common IBM Cloud Use Cases](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#common-bluemix-use-cases)**
    - [Cognitive Applications](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#cognitive-applications)
 - **[Common Tips and Tricks](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#common-tips-and-tricks)**
-   - [IBM Cloud API's and Core SDKs]()
+   - [IBM Cloud API's and Core SDKs](https://github.com/dtoczala/ibm-cloud-landing-page/blob/master/README.md#ibm-cloud-apis-and-core-sdks)
    - [Debugging Node.js and Java applications on Bluemix](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#debugging-nodejs-and-java-applications-on-bluemix)
    - [Staying Aware of Watson and Cloud Best practices](https://github.com/dtoczala/bluemix-landing-page/blob/master/README.md#staying-aware-of-watson-and-cloud-best-practices)
 ---
