@@ -55,10 +55,11 @@ Bluemix is the former name of the IBM Cloud PaaS product which provides a wide a
 
 The general idea is to use digital resources on an "as needed" basis, and to pay for them on an "as used" basis.  This allows organizations to avoid buying hardware and software that is underutilized or ignored.  When coupled with the concepts of [DevOps](https://www.ibm.com/cloud-computing/learn-more/what-is-devops/) and [microservices architectures](https://martinfowler.com/articles/microservices.html), the IBM Cloud platform can become a key foundation for a culture of innovation and continuous improvement.
 
-The IBM Cloud itself is based on [Cloud Foundry](https://www.cloudfoundry.org/) (although this is evolving), which is an open source cloud application platform for developing and deploying enterprise cloud applications.
+The IBM Cloud itself is based on [Cloud Foundry](https://www.cloudfoundry.org/) (although this is evolving), which is an open source cloud application platform for developing and deploying enterprise cloud applications.  Now the platform is evolving to a platform based on [Identity and Access Management, or IAM](https://cloud.ibm.com/docs/iam?topic=iam-iamoverview).  IAM uses the concept of Resource Groups to manage your services and applications on the IBM Cloud.  
 
 ### References for Further Reading
 - [Lionel's Bluemix Help](http:/ibm.biz/bluemixhelp) - this page is an "unofficial" collection of links done by Lionel Mace.  Nice collection of places to start from.
+- [Beginners Guide to IAM](https://github.com/jamesbeltonIBM/IBMCloudIAM) - a great PDF for you to download and read so you can get started quickly in understanding the IBM Cloud and IAM.
 - [Common Bluemix ID and Billing Questions](https://www.ibm.com/blogs/bluemix/2017/08/common_qa/) - great guide on common Bluemix ID and billing questions with good answers.  We use this a lot.
 - [Managing Resource Groups](https://console.bluemix.net/docs/admin/resourcegroups.html#rgs) - it's just a link to the documentation, but this new feature introduced in November 2017 allows you more freedom and options in organizing your development efforts on the IBM Cloud.
 - [Free Course - Bluemix Essentials](https://developer.ibm.com/courses/all/bluemix-essentials/) - a free introductory course that will help you learn the essential concepts and terminology of the IBM Bluemix platform.
@@ -108,6 +109,7 @@ Compute resources include [bare metal servers](https://console.bluemix.net/catal
 
 ### References for Further Reading
 - [Intro to Compute Resources on IBM Cloud](https://www.youtube.com/watch?v=dfk53yb51yw&t=0s&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz&index=3) - A 15 minute overview of the compute services available on the IBM Cloud, part of [James Belton's](https://www.linkedin.com/in/jamesbelton/) [IBM CLoud Foundation Skills](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series on YouTube.
+- [Intro to VPC Infrastructure on IBM Cloud](https://github.com/jamesbeltonIBM/VPC-Infrastructre-on-IBMCloud) - A 15 minutnice PDF with an overview of the Virtual Private Cloud (VPC) infrastructure available on the IBM Cloud.  It's another one of [James Belton's](https://www.linkedin.com/in/jamesbelton/) Getting Started PDF's.
 - [Interacting With a Device](https://console.bluemix.net/docs/vsi/vsi_interact_device_snapshot_view.html#interact-with-a-device-in-snapshot-view) - A simple guide to some basic operations with a virtual server instance.
 - [Managing Device Access](https://console.bluemix.net/docs/vsi/vsi_device_access.html#managing-device-access) - a simple guide to managing access to virtual server instances.
 - [What are the Different Types of Virtual Server?](https://www.youtube.com/watch?v=ARUefnCR9xw&list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz&index=17) - part of the [IBM Cloud Foundation Skills Series](https://www.youtube.com/playlist?list=PLmesOgYt3nKCfsXqx-A5k1bP7t146U4rz) series, this 7 minute video will walk you through the basics of virtual servers, and what the different types of virtual server are able to do.
