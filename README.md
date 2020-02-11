@@ -416,6 +416,7 @@ Here is a list of some of the tools that are available to help in the administra
 - [Administering Your IBM Cloud Account](https://developer.ibm.com/dwblog/2018/administering-your-ibm-cloud-account-a-script-to-help/) - blog post with an associated [GitHub repository](https://github.com/dtoczala/IBM_Cloud_Admin) which has a Python script for an interactive and scriptable command line tool to help administer your IBM Cloud account.
 - [Using Terraform with the IBM Cloud Provider](https://ibm-cloud.github.io/tf-ibm-docs/#using-terraform-with-the-ibm-cloud-provider) - using Teraform to manage your IBM Cloud infrastructure is an easy way to automate full blown deployments onto the IBM Cloud.
 - [CURL Cookbook](https://catonmat.net/cookbooks/curl) - not a tool, but a collection of web pages that will help you do ANYTHING that you need to do with CURL.  Great reference material - bookmark this for yourself.
+- [Removing those pending users](https://github.com/jamesbeltonIBM/ibmcloud-delete-pending-accounts) - a shell script that will remove the "pending" users from your IBM Cloud account.
 
 
 ### References for Further Reading
